@@ -1,0 +1,1882 @@
+comunidad,nivel_educativo,ano,miles_parados,miles_activos,tasa_paro
+Andalucía,Analfabetos,2014,18.3,27.3,67.03
+Andalucía,Analfabetos,2015,14.2,22.9,62.01
+Andalucía,Analfabetos,2016,10.2,20.7,49.28
+Andalucía,Analfabetos,2017,7.2,19.8,36.36
+Andalucía,Analfabetos,2018,5.8,15.0,38.67
+Andalucía,Analfabetos,2019,6.9,15.2,45.39
+Andalucía,Analfabetos,2020,7.5,18.3,40.98
+Andalucía,Analfabetos,2021,7.7,26.1,29.5
+Andalucía,Analfabetos,2022,10.6,22.6,46.9
+Andalucía,Analfabetos,2023,7.6,15.0,50.67
+Andalucía,Analfabetos,2024,6.4,14.6,43.84
+Andalucía,Básica,2014,63.7,112.3,56.72
+Andalucía,Básica,2014,63.7,418.7,15.21
+Andalucía,Básica,2015,51.6,116.1,44.44
+Andalucía,Básica,2015,51.6,384.6,13.42
+Andalucía,Básica,2016,49.5,106.1,46.65
+Andalucía,Básica,2016,49.5,353.3,14.01
+Andalucía,Básica,2017,41.3,96.6,42.75
+Andalucía,Básica,2017,41.3,333.5,12.38
+Andalucía,Básica,2018,39.6,96.1,41.21
+Andalucía,Básica,2018,39.6,312.5,12.67
+Andalucía,Básica,2019,27.7,89.4,30.98
+Andalucía,Básica,2019,27.7,282.6,9.8
+Andalucía,Básica,2020,25.4,84.5,30.06
+Andalucía,Básica,2020,25.4,257.4,9.87
+Andalucía,Básica,2021,25.5,83.7,30.47
+Andalucía,Básica,2021,25.5,229.0,11.14
+Andalucía,Básica,2022,19.9,71.5,27.83
+Andalucía,Básica,2022,19.9,226.6,8.78
+Andalucía,Básica,2023,16.9,65.5,25.8
+Andalucía,Básica,2023,16.9,224.9,7.51
+Andalucía,Básica,2024,19.5,58.7,33.22
+Andalucía,Básica,2024,19.5,215.8,9.04
+Andalucía,Básica,2014,198.6,112.3,176.85
+Andalucía,Básica,2014,198.6,418.7,47.43
+Andalucía,Básica,2015,173.2,116.1,149.18
+Andalucía,Básica,2015,173.2,384.6,45.03
+Andalucía,Básica,2016,147.9,106.1,139.4
+Andalucía,Básica,2016,147.9,353.3,41.86
+Andalucía,Básica,2017,134.6,96.6,139.34
+Andalucía,Básica,2017,134.6,333.5,40.36
+Andalucía,Básica,2018,110.3,96.1,114.78
+Andalucía,Básica,2018,110.3,312.5,35.3
+Andalucía,Básica,2019,92.3,89.4,103.24
+Andalucía,Básica,2019,92.3,282.6,32.66
+Andalucía,Básica,2020,86.7,84.5,102.6
+Andalucía,Básica,2020,86.7,257.4,33.68
+Andalucía,Básica,2021,77.9,83.7,93.07
+Andalucía,Básica,2021,77.9,229.0,34.02
+Andalucía,Básica,2022,72.7,71.5,101.68
+Andalucía,Básica,2022,72.7,226.6,32.08
+Andalucía,Básica,2023,72.2,65.5,110.23
+Andalucía,Básica,2023,72.2,224.9,32.1
+Andalucía,Básica,2024,64.1,58.7,109.2
+Andalucía,Básica,2024,64.1,215.8,29.7
+Andalucía,ESO,2014,601.6,,
+Andalucía,ESO,2015,541.2,,
+Andalucía,ESO,2016,502.0,,
+Andalucía,ESO,2017,447.0,,
+Andalucía,ESO,2018,385.3,,
+Andalucía,ESO,2019,362.8,,
+Andalucía,ESO,2020,353.9,,
+Andalucía,ESO,2021,362.8,,
+Andalucía,ESO,2022,317.3,,
+Andalucía,ESO,2023,304.6,,
+Andalucía,ESO,2024,269.1,,
+Andalucía,Otros,2014,134.3,463.2,28.99
+Andalucía,Otros,2015,127.7,476.3,26.81
+Andalucía,Otros,2016,107.8,436.4,24.7
+Andalucía,Otros,2017,95.9,451.2,21.25
+Andalucía,Otros,2018,95.2,461.8,20.61
+Andalucía,Otros,2019,87.3,469.1,18.61
+Andalucía,Otros,2020,95.1,443.6,21.44
+Andalucía,Otros,2021,90.9,431.8,21.05
+Andalucía,Otros,2022,87.1,461.0,18.89
+Andalucía,Otros,2023,88.0,490.8,17.93
+Andalucía,Otros,2024,80.5,489.5,16.45
+Andalucía,FP,2014,131.1,397.7,32.96
+Andalucía,FP,2015,126.0,403.6,31.22
+Andalucía,FP,2016,113.5,409.0,27.75
+Andalucía,FP,2017,99.7,385.6,25.86
+Andalucía,FP,2018,93.5,407.5,22.94
+Andalucía,FP,2019,95.7,430.9,22.21
+Andalucía,FP,2020,93.1,413.5,22.52
+Andalucía,FP,2021,105.7,464.0,22.78
+Andalucía,FP,2022,88.8,452.0,19.65
+Andalucía,FP,2023,81.9,451.1,18.16
+Andalucía,FP,2024,79.9,463.5,17.24
+Andalucía,Superior,2014,257.1,,
+Andalucía,Superior,2015,241.0,,
+Andalucía,Superior,2016,220.2,,
+Andalucía,Superior,2017,184.1,,
+Andalucía,Superior,2018,174.9,,
+Andalucía,Superior,2019,166.0,,
+Andalucía,Superior,2020,204.6,,
+Andalucía,Superior,2021,211.0,,
+Andalucía,Superior,2022,177.8,,
+Andalucía,Superior,2023,183.8,,
+Andalucía,Superior,2024,162.7,,
+Aragón,Analfabetos,2014,1.4,2.0,70.0
+Aragón,Analfabetos,2015,0.8,1.8,44.44
+Aragón,Analfabetos,2016,0.2,1.0,20.0
+Aragón,Analfabetos,2017,0.5,1.9,26.32
+Aragón,Analfabetos,2018,0.5,1.0,50.0
+Aragón,Analfabetos,2019,1.0,1.4,71.43
+Aragón,Analfabetos,2020,1.2,3.2,37.5
+Aragón,Analfabetos,2021,0.8,2.3,34.78
+Aragón,Analfabetos,2022,1.0,3.7,27.03
+Aragón,Analfabetos,2023,0.5,2.5,20.0
+Aragón,Analfabetos,2024,0.9,2.4,37.5
+Aragón,Básica,2014,3.6,7.0,51.43
+Aragón,Básica,2014,3.6,62.0,5.81
+Aragón,Básica,2015,2.4,6.1,39.34
+Aragón,Básica,2015,2.4,50.5,4.75
+Aragón,Básica,2016,2.4,5.1,47.06
+Aragón,Básica,2016,2.4,45.8,5.24
+Aragón,Básica,2017,1.0,3.4,29.41
+Aragón,Básica,2017,1.0,40.5,2.47
+Aragón,Básica,2018,1.6,5.2,30.77
+Aragón,Básica,2018,1.6,38.5,4.16
+Aragón,Básica,2019,1.5,4.6,32.61
+Aragón,Básica,2019,1.5,27.1,5.54
+Aragón,Básica,2020,1.9,4.1,46.34
+Aragón,Básica,2020,1.9,25.5,7.45
+Aragón,Básica,2021,0.8,3.7,21.62
+Aragón,Básica,2021,0.8,23.2,3.45
+Aragón,Básica,2022,2.1,7.3,28.77
+Aragón,Básica,2022,2.1,23.8,8.82
+Aragón,Básica,2023,1.0,7.2,13.89
+Aragón,Básica,2023,1.0,21.0,4.76
+Aragón,Básica,2024,1.0,6.6,15.15
+Aragón,Básica,2024,1.0,20.5,4.88
+Aragón,Básica,2014,19.3,7.0,275.71
+Aragón,Básica,2014,19.3,62.0,31.13
+Aragón,Básica,2015,14.2,6.1,232.79
+Aragón,Básica,2015,14.2,50.5,28.12
+Aragón,Básica,2016,10.5,5.1,205.88
+Aragón,Básica,2016,10.5,45.8,22.93
+Aragón,Básica,2017,9.1,3.4,267.65
+Aragón,Básica,2017,9.1,40.5,22.47
+Aragón,Básica,2018,9.5,5.2,182.69
+Aragón,Básica,2018,9.5,38.5,24.68
+Aragón,Básica,2019,7.7,4.6,167.39
+Aragón,Básica,2019,7.7,27.1,28.41
+Aragón,Básica,2020,6.4,4.1,156.1
+Aragón,Básica,2020,6.4,25.5,25.1
+Aragón,Básica,2021,4.5,3.7,121.62
+Aragón,Básica,2021,4.5,23.2,19.4
+Aragón,Básica,2022,5.3,7.3,72.6
+Aragón,Básica,2022,5.3,23.8,22.27
+Aragón,Básica,2023,5.3,7.2,73.61
+Aragón,Básica,2023,5.3,21.0,25.24
+Aragón,Básica,2024,4.7,6.6,71.21
+Aragón,Básica,2024,4.7,20.5,22.93
+Aragón,ESO,2014,37.3,157.1,23.74
+Aragón,ESO,2015,32.3,170.5,18.94
+Aragón,ESO,2016,30.1,164.4,18.31
+Aragón,ESO,2017,25.8,167.1,15.44
+Aragón,ESO,2018,22.5,165.3,13.61
+Aragón,ESO,2019,19.7,170.5,11.55
+Aragón,ESO,2020,22.9,153.4,14.93
+Aragón,ESO,2021,18.5,152.5,12.13
+Aragón,ESO,2022,22.8,168.2,13.56
+Aragón,ESO,2023,18.4,173.2,10.62
+Aragón,ESO,2024,18.8,180.2,10.43
+Aragón,Otros,2014,23.3,97.4,23.92
+Aragón,Otros,2015,20.0,96.8,20.66
+Aragón,Otros,2016,17.9,103.3,17.33
+Aragón,Otros,2017,12.7,94.3,13.47
+Aragón,Otros,2018,11.1,88.7,12.51
+Aragón,Otros,2019,9.8,94.1,10.41
+Aragón,Otros,2020,12.2,98.2,12.42
+Aragón,Otros,2021,11.9,100.3,11.86
+Aragón,Otros,2022,7.2,81.9,8.79
+Aragón,Otros,2023,6.6,75.9,8.7
+Aragón,Otros,2024,9.2,82.2,11.19
+Aragón,FP,2014,15.6,76.1,20.5
+Aragón,FP,2015,11.7,76.0,15.39
+Aragón,FP,2016,11.6,80.5,14.41
+Aragón,FP,2017,9.1,82.2,11.07
+Aragón,FP,2018,8.4,83.9,10.01
+Aragón,FP,2019,8.6,85.5,10.06
+Aragón,FP,2020,9.8,91.7,10.69
+Aragón,FP,2021,11.4,95.6,11.92
+Aragón,FP,2022,8.8,83.6,10.53
+Aragón,FP,2023,8.0,89.2,8.97
+Aragón,FP,2024,7.3,92.3,7.91
+Aragón,Superior,2014,30.8,249.0,12.37
+Aragón,Superior,2015,23.9,244.8,9.76
+Aragón,Superior,2016,23.0,249.7,9.21
+Aragón,Superior,2017,16.4,251.0,6.53
+Aragón,Superior,2018,14.6,259.5,5.63
+Aragón,Superior,2019,17.1,269.8,6.34
+Aragón,Superior,2020,21.0,269.4,7.8
+Aragón,Superior,2021,19.8,278.8,7.1
+Aragón,Superior,2022,16.6,295.1,5.63
+Aragón,Superior,2023,17.5,299.7,5.84
+Aragón,Superior,2024,13.1,291.0,4.5
+"Asturias, Principado de",Analfabetos,2014,0.2,0.4,50.0
+"Asturias, Principado de",Analfabetos,2015,0.3,1.0,30.0
+"Asturias, Principado de",Analfabetos,2016,0.1,0.4,25.0
+"Asturias, Principado de",Analfabetos,2017,0.0,0.1,0.0
+"Asturias, Principado de",Analfabetos,2018,,0.2,
+"Asturias, Principado de",Analfabetos,2019,0.2,0.4,50.0
+"Asturias, Principado de",Analfabetos,2020,0.1,0.1,100.0
+"Asturias, Principado de",Analfabetos,2021,0.2,0.2,100.0
+"Asturias, Principado de",Analfabetos,2022,0.3,0.3,100.0
+"Asturias, Principado de",Analfabetos,2023,,,
+"Asturias, Principado de",Analfabetos,2024,0.8,1.1,72.73
+"Asturias, Principado de",Básica,2014,1.3,2.7,48.15
+"Asturias, Principado de",Básica,2014,1.3,30.7,4.23
+"Asturias, Principado de",Básica,2015,0.5,1.6,31.25
+"Asturias, Principado de",Básica,2015,0.5,29.9,1.67
+"Asturias, Principado de",Básica,2016,0.2,1.3,15.38
+"Asturias, Principado de",Básica,2016,0.2,31.9,0.63
+"Asturias, Principado de",Básica,2017,0.4,1.6,25.0
+"Asturias, Principado de",Básica,2017,0.4,21.4,1.87
+"Asturias, Principado de",Básica,2018,0.5,1.8,27.78
+"Asturias, Principado de",Básica,2018,0.5,16.2,3.09
+"Asturias, Principado de",Básica,2019,0.3,0.8,37.5
+"Asturias, Principado de",Básica,2019,0.3,8.7,3.45
+"Asturias, Principado de",Básica,2020,0.1,1.2,8.33
+"Asturias, Principado de",Básica,2020,0.1,8.0,1.25
+"Asturias, Principado de",Básica,2021,,1.2,
+"Asturias, Principado de",Básica,2021,,6.8,
+"Asturias, Principado de",Básica,2022,0.3,1.1,27.27
+"Asturias, Principado de",Básica,2022,0.3,6.8,4.41
+"Asturias, Principado de",Básica,2023,0.4,0.7,57.14
+"Asturias, Principado de",Básica,2023,0.4,7.4,5.41
+"Asturias, Principado de",Básica,2024,0.3,0.7,42.86
+"Asturias, Principado de",Básica,2024,0.3,6.1,4.92
+"Asturias, Principado de",Básica,2014,9.2,2.7,340.74
+"Asturias, Principado de",Básica,2014,9.2,30.7,29.97
+"Asturias, Principado de",Básica,2015,8.7,1.6,543.75
+"Asturias, Principado de",Básica,2015,8.7,29.9,29.1
+"Asturias, Principado de",Básica,2016,8.1,1.3,623.08
+"Asturias, Principado de",Básica,2016,8.1,31.9,25.39
+"Asturias, Principado de",Básica,2017,6.0,1.6,375.0
+"Asturias, Principado de",Básica,2017,6.0,21.4,28.04
+"Asturias, Principado de",Básica,2018,3.8,1.8,211.11
+"Asturias, Principado de",Básica,2018,3.8,16.2,23.46
+"Asturias, Principado de",Básica,2019,2.5,0.8,312.5
+"Asturias, Principado de",Básica,2019,2.5,8.7,28.74
+"Asturias, Principado de",Básica,2020,1.9,1.2,158.33
+"Asturias, Principado de",Básica,2020,1.9,8.0,23.75
+"Asturias, Principado de",Básica,2021,1.7,1.2,141.67
+"Asturias, Principado de",Básica,2021,1.7,6.8,25.0
+"Asturias, Principado de",Básica,2022,1.9,1.1,172.73
+"Asturias, Principado de",Básica,2022,1.9,6.8,27.94
+"Asturias, Principado de",Básica,2023,2.4,0.7,342.86
+"Asturias, Principado de",Básica,2023,2.4,7.4,32.43
+"Asturias, Principado de",Básica,2024,2.2,0.7,314.29
+"Asturias, Principado de",Básica,2024,2.2,6.1,36.07
+"Asturias, Principado de",ESO,2014,35.0,120.4,29.07
+"Asturias, Principado de",ESO,2015,28.2,108.6,25.97
+"Asturias, Principado de",ESO,2016,25.5,105.6,24.15
+"Asturias, Principado de",ESO,2017,20.2,107.5,18.79
+"Asturias, Principado de",ESO,2018,20.4,107.0,19.07
+"Asturias, Principado de",ESO,2019,23.2,114.8,20.21
+"Asturias, Principado de",ESO,2020,19.5,103.7,18.8
+"Asturias, Principado de",ESO,2021,16.9,107.1,15.78
+"Asturias, Principado de",ESO,2022,18.3,109.0,16.79
+"Asturias, Principado de",ESO,2023,17.5,107.8,16.23
+"Asturias, Principado de",ESO,2024,14.9,104.4,14.27
+"Asturias, Principado de",Otros,2014,10.0,61.2,16.34
+"Asturias, Principado de",Otros,2015,10.8,64.8,16.67
+"Asturias, Principado de",Otros,2016,10.6,65.0,16.31
+"Asturias, Principado de",Otros,2017,9.1,62.0,14.68
+"Asturias, Principado de",Otros,2018,10.0,61.1,16.37
+"Asturias, Principado de",Otros,2019,11.0,63.2,17.41
+"Asturias, Principado de",Otros,2020,11.1,63.1,17.59
+"Asturias, Principado de",Otros,2021,8.5,56.3,15.1
+"Asturias, Principado de",Otros,2022,7.9,56.6,13.96
+"Asturias, Principado de",Otros,2023,8.7,56.7,15.34
+"Asturias, Principado de",Otros,2024,8.0,62.1,12.88
+"Asturias, Principado de",FP,2014,11.1,48.9,22.7
+"Asturias, Principado de",FP,2015,8.3,48.1,17.26
+"Asturias, Principado de",FP,2016,8.2,48.9,16.77
+"Asturias, Principado de",FP,2017,5.7,48.8,11.68
+"Asturias, Principado de",FP,2018,7.9,48.6,16.26
+"Asturias, Principado de",FP,2019,7.3,45.4,16.08
+"Asturias, Principado de",FP,2020,8.3,51.2,16.21
+"Asturias, Principado de",FP,2021,7.9,55.4,14.26
+"Asturias, Principado de",FP,2022,7.4,54.3,13.63
+"Asturias, Principado de",FP,2023,8.4,58.7,14.31
+"Asturias, Principado de",FP,2024,6.7,66.7,10.04
+"Asturias, Principado de",Superior,2014,33.9,212.7,15.94
+"Asturias, Principado de",Superior,2015,32.2,211.0,15.26
+"Asturias, Principado de",Superior,2016,30.0,215.5,13.92
+"Asturias, Principado de",Superior,2017,21.5,217.1,9.9
+"Asturias, Principado de",Superior,2018,19.2,218.7,8.78
+"Asturias, Principado de",Superior,2019,19.6,217.8,9.0
+"Asturias, Principado de",Superior,2020,21.6,216.5,9.98
+"Asturias, Principado de",Superior,2021,19.8,219.6,9.02
+"Asturias, Principado de",Superior,2022,18.8,210.8,8.92
+"Asturias, Principado de",Superior,2023,16.9,215.3,7.85
+"Asturias, Principado de",Superior,2024,13.6,219.0,6.21
+"Balears, Illes",Analfabetos,2014,1.9,1.9,100.0
+"Balears, Illes",Analfabetos,2015,2.1,4.2,50.0
+"Balears, Illes",Analfabetos,2016,1.6,4.4,36.36
+"Balears, Illes",Analfabetos,2017,0.9,2.4,37.5
+"Balears, Illes",Analfabetos,2018,0.6,1.3,46.15
+"Balears, Illes",Analfabetos,2019,0.7,2.0,35.0
+"Balears, Illes",Analfabetos,2020,0.5,2.3,21.74
+"Balears, Illes",Analfabetos,2021,0.8,3.0,26.67
+"Balears, Illes",Analfabetos,2022,0.1,2.0,5.0
+"Balears, Illes",Analfabetos,2023,0.7,3.2,21.87
+"Balears, Illes",Analfabetos,2024,0.3,2.3,13.04
+"Balears, Illes",Básica,2014,4.1,11.0,37.27
+"Balears, Illes",Básica,2014,4.1,37.9,10.82
+"Balears, Illes",Básica,2015,3.6,10.7,33.64
+"Balears, Illes",Básica,2015,3.6,33.9,10.62
+"Balears, Illes",Básica,2016,2.0,8.0,25.0
+"Balears, Illes",Básica,2016,2.0,27.6,7.25
+"Balears, Illes",Básica,2017,1.1,7.8,14.1
+"Balears, Illes",Básica,2017,1.1,25.0,4.4
+"Balears, Illes",Básica,2018,1.4,6.4,21.87
+"Balears, Illes",Básica,2018,1.4,30.6,4.58
+"Balears, Illes",Básica,2019,0.8,8.1,9.88
+"Balears, Illes",Básica,2019,0.8,29.9,2.68
+"Balears, Illes",Básica,2020,1.0,3.4,29.41
+"Balears, Illes",Básica,2020,1.0,19.1,5.24
+"Balears, Illes",Básica,2021,1.3,3.0,43.33
+"Balears, Illes",Básica,2021,1.3,22.3,5.83
+"Balears, Illes",Básica,2022,0.6,7.3,8.22
+"Balears, Illes",Básica,2022,0.6,30.0,2.0
+"Balears, Illes",Básica,2023,1.3,7.0,18.57
+"Balears, Illes",Básica,2023,1.3,28.4,4.58
+"Balears, Illes",Básica,2024,0.8,4.6,17.39
+"Balears, Illes",Básica,2024,0.8,28.0,2.86
+"Balears, Illes",Básica,2014,10.7,11.0,97.27
+"Balears, Illes",Básica,2014,10.7,37.9,28.23
+"Balears, Illes",Básica,2015,9.1,10.7,85.05
+"Balears, Illes",Básica,2015,9.1,33.9,26.84
+"Balears, Illes",Básica,2016,5.3,8.0,66.25
+"Balears, Illes",Básica,2016,5.3,27.6,19.2
+"Balears, Illes",Básica,2017,2.8,7.8,35.9
+"Balears, Illes",Básica,2017,2.8,25.0,11.2
+"Balears, Illes",Básica,2018,3.5,6.4,54.69
+"Balears, Illes",Básica,2018,3.5,30.6,11.44
+"Balears, Illes",Básica,2019,4.8,8.1,59.26
+"Balears, Illes",Básica,2019,4.8,29.9,16.05
+"Balears, Illes",Básica,2020,4.9,3.4,144.12
+"Balears, Illes",Básica,2020,4.9,19.1,25.65
+"Balears, Illes",Básica,2021,5.6,3.0,186.67
+"Balears, Illes",Básica,2021,5.6,22.3,25.11
+"Balears, Illes",Básica,2022,7.5,7.3,102.74
+"Balears, Illes",Básica,2022,7.5,30.0,25.0
+"Balears, Illes",Básica,2023,6.4,7.0,91.43
+"Balears, Illes",Básica,2023,6.4,28.4,22.54
+"Balears, Illes",Básica,2024,5.3,4.6,115.22
+"Balears, Illes",Básica,2024,5.3,28.0,18.93
+"Balears, Illes",ESO,2014,51.8,216.8,23.89
+"Balears, Illes",ESO,2015,45.9,214.5,21.4
+"Balears, Illes",ESO,2016,41.3,210.7,19.6
+"Balears, Illes",ESO,2017,36.4,209.6,17.37
+"Balears, Illes",ESO,2018,30.9,218.2,14.16
+"Balears, Illes",ESO,2019,30.0,215.0,13.95
+"Balears, Illes",ESO,2020,35.6,186.3,19.11
+"Balears, Illes",ESO,2021,31.3,173.7,18.02
+"Balears, Illes",ESO,2022,24.7,191.5,12.9
+"Balears, Illes",ESO,2023,22.9,197.6,11.59
+"Balears, Illes",ESO,2024,22.1,202.0,10.94
+"Balears, Illes",Otros,2014,19.1,104.8,18.23
+"Balears, Illes",Otros,2015,19.4,113.6,17.08
+"Balears, Illes",Otros,2016,13.1,112.3,11.67
+"Balears, Illes",Otros,2017,14.2,108.0,13.15
+"Balears, Illes",Otros,2018,16.2,111.8,14.49
+"Balears, Illes",Otros,2019,15.6,106.1,14.7
+"Balears, Illes",Otros,2020,24.7,115.7,21.35
+"Balears, Illes",Otros,2021,18.9,109.0,17.34
+"Balears, Illes",Otros,2022,14.1,117.6,11.99
+"Balears, Illes",Otros,2023,12.6,125.6,10.03
+"Balears, Illes",Otros,2024,13.3,111.0,11.98
+"Balears, Illes",FP,2014,10.8,54.1,19.96
+"Balears, Illes",FP,2015,10.2,61.4,16.61
+"Balears, Illes",FP,2016,9.0,67.4,13.35
+"Balears, Illes",FP,2017,7.4,64.6,11.46
+"Balears, Illes",FP,2018,9.4,70.0,13.43
+"Balears, Illes",FP,2019,9.1,71.1,12.8
+"Balears, Illes",FP,2020,11.5,70.7,16.27
+"Balears, Illes",FP,2021,9.2,76.9,11.96
+"Balears, Illes",FP,2022,5.8,68.8,8.43
+"Balears, Illes",FP,2023,7.4,72.0,10.28
+"Balears, Illes",FP,2024,7.2,80.0,9.0
+"Balears, Illes",Superior,2014,22.3,177.0,12.6
+"Balears, Illes",Superior,2015,16.4,178.1,9.21
+"Balears, Illes",Superior,2016,13.3,185.8,7.16
+"Balears, Illes",Superior,2017,13.5,196.4,6.87
+"Balears, Illes",Superior,2018,10.9,194.8,5.6
+"Balears, Illes",Superior,2019,15.0,215.0,6.98
+"Balears, Illes",Superior,2020,23.6,232.5,10.15
+"Balears, Illes",Superior,2021,22.7,240.1,9.45
+"Balears, Illes",Superior,2022,15.6,227.2,6.87
+"Balears, Illes",Superior,2023,16.4,223.7,7.33
+"Balears, Illes",Superior,2024,13.6,241.8,5.62
+Canarias,Analfabetos,2014,1.4,3.3,42.42
+Canarias,Analfabetos,2015,2.5,7.9,31.65
+Canarias,Analfabetos,2016,0.8,3.7,21.62
+Canarias,Analfabetos,2017,1.3,2.8,46.43
+Canarias,Analfabetos,2018,1.1,1.9,57.89
+Canarias,Analfabetos,2019,0.6,1.3,46.15
+Canarias,Analfabetos,2020,2.5,3.0,83.33
+Canarias,Analfabetos,2021,1.8,3.2,56.25
+Canarias,Analfabetos,2022,0.6,2.6,23.08
+Canarias,Analfabetos,2023,0.8,1.4,57.14
+Canarias,Analfabetos,2024,0.5,3.3,15.15
+Canarias,Básica,2014,14.2,33.3,42.64
+Canarias,Básica,2014,14.2,129.6,10.96
+Canarias,Básica,2015,10.7,30.6,34.97
+Canarias,Básica,2015,10.7,121.5,8.81
+Canarias,Básica,2016,9.5,25.1,37.85
+Canarias,Básica,2016,9.5,108.1,8.79
+Canarias,Básica,2017,6.5,20.3,32.02
+Canarias,Básica,2017,6.5,104.5,6.22
+Canarias,Básica,2018,6.6,27.0,24.44
+Canarias,Básica,2018,6.6,87.6,7.53
+Canarias,Básica,2019,4.7,15.0,31.33
+Canarias,Básica,2019,4.7,90.4,5.2
+Canarias,Básica,2020,5.9,18.4,32.07
+Canarias,Básica,2020,5.9,76.7,7.69
+Canarias,Básica,2021,4.6,12.9,35.66
+Canarias,Básica,2021,4.6,76.9,5.98
+Canarias,Básica,2022,2.4,10.7,22.43
+Canarias,Básica,2022,2.4,67.4,3.56
+Canarias,Básica,2023,2.0,11.3,17.7
+Canarias,Básica,2023,2.0,69.7,2.87
+Canarias,Básica,2024,2.1,9.5,22.11
+Canarias,Básica,2024,2.1,64.9,3.24
+Canarias,Básica,2014,57.8,33.3,173.57
+Canarias,Básica,2014,57.8,129.6,44.6
+Canarias,Básica,2015,47.0,30.6,153.59
+Canarias,Básica,2015,47.0,121.5,38.68
+Canarias,Básica,2016,39.4,25.1,156.97
+Canarias,Básica,2016,39.4,108.1,36.45
+Canarias,Básica,2017,33.9,20.3,167.0
+Canarias,Básica,2017,33.9,104.5,32.44
+Canarias,Básica,2018,28.1,27.0,104.07
+Canarias,Básica,2018,28.1,87.6,32.08
+Canarias,Básica,2019,28.0,15.0,186.67
+Canarias,Básica,2019,28.0,90.4,30.97
+Canarias,Básica,2020,25.7,18.4,139.67
+Canarias,Básica,2020,25.7,76.7,33.51
+Canarias,Básica,2021,28.4,12.9,220.16
+Canarias,Básica,2021,28.4,76.9,36.93
+Canarias,Básica,2022,19.2,10.7,179.44
+Canarias,Básica,2022,19.2,67.4,28.49
+Canarias,Básica,2023,21.2,11.3,187.61
+Canarias,Básica,2023,21.2,69.7,30.42
+Canarias,Básica,2024,12.0,9.5,126.32
+Canarias,Básica,2024,12.0,64.9,18.49
+Canarias,ESO,2014,128.5,339.7,37.83
+Canarias,ESO,2015,123.1,344.2,35.76
+Canarias,ESO,2016,104.8,328.5,31.9
+Canarias,ESO,2017,93.9,323.5,29.03
+Canarias,ESO,2018,84.3,333.1,25.31
+Canarias,ESO,2019,84.5,326.5,25.88
+Canarias,ESO,2020,77.0,283.8,27.13
+Canarias,ESO,2021,84.2,280.2,30.05
+Canarias,ESO,2022,64.3,288.8,22.26
+Canarias,ESO,2023,63.2,313.1,20.19
+Canarias,ESO,2024,56.5,315.1,17.93
+Canarias,Otros,2014,54.4,173.7,31.32
+Canarias,Otros,2015,45.4,179.1,25.35
+Canarias,Otros,2016,41.7,183.4,22.74
+Canarias,Otros,2017,40.8,190.1,21.46
+Canarias,Otros,2018,30.6,191.1,16.01
+Canarias,Otros,2019,33.0,193.6,17.05
+Canarias,Otros,2020,40.5,195.6,20.71
+Canarias,Otros,2021,45.9,176.8,25.96
+Canarias,Otros,2022,40.1,196.7,20.39
+Canarias,Otros,2023,32.9,204.7,16.07
+Canarias,Otros,2024,29.2,205.3,14.22
+Canarias,FP,2014,29.3,94.5,31.01
+Canarias,FP,2015,32.9,110.7,29.72
+Canarias,FP,2016,32.4,104.7,30.95
+Canarias,FP,2017,24.7,104.5,23.64
+Canarias,FP,2018,22.2,109.6,20.26
+Canarias,FP,2019,23.6,106.6,22.14
+Canarias,FP,2020,22.4,103.0,21.75
+Canarias,FP,2021,24.4,115.0,21.22
+Canarias,FP,2022,23.1,118.9,19.43
+Canarias,FP,2023,21.7,131.2,16.54
+Canarias,FP,2024,17.7,126.6,13.98
+Canarias,Superior,2014,68.7,319.0,21.54
+Canarias,Superior,2015,62.1,317.7,19.55
+Canarias,Superior,2016,58.1,346.5,16.77
+Canarias,Superior,2017,56.7,353.5,16.04
+Canarias,Superior,2018,52.5,372.1,14.11
+Canarias,Superior,2019,59.2,405.9,14.58
+Canarias,Superior,2020,74.5,417.7,17.84
+Canarias,Superior,2021,65.3,420.0,15.55
+Canarias,Superior,2022,48.3,438.2,11.02
+Canarias,Superior,2023,43.8,422.5,10.37
+Canarias,Superior,2024,42.6,441.4,9.65
+Cantabria,Analfabetos,2014,,0.2,
+Cantabria,Analfabetos,2015,,0.2,
+Cantabria,Analfabetos,2016,0.0,0.1,0.0
+Cantabria,Analfabetos,2017,0.3,0.5,60.0
+Cantabria,Analfabetos,2018,0.1,0.3,33.33
+Cantabria,Analfabetos,2019,0.1,0.5,20.0
+Cantabria,Analfabetos,2020,0.1,0.5,20.0
+Cantabria,Analfabetos,2021,,,
+Cantabria,Analfabetos,2022,0.1,0.4,25.0
+Cantabria,Analfabetos,2023,,0.0,
+Cantabria,Analfabetos,2024,0.0,0.0,
+Cantabria,Básica,2014,0.1,0.8,12.5
+Cantabria,Básica,2014,0.1,14.8,0.68
+Cantabria,Básica,2015,0.4,0.7,57.14
+Cantabria,Básica,2015,0.4,9.6,4.17
+Cantabria,Básica,2016,,0.7,
+Cantabria,Básica,2016,,7.6,
+Cantabria,Básica,2017,0.3,1.1,27.27
+Cantabria,Básica,2017,0.3,7.4,4.05
+Cantabria,Básica,2018,0.1,0.6,16.67
+Cantabria,Básica,2018,0.1,7.2,1.39
+Cantabria,Básica,2019,0.1,0.9,11.11
+Cantabria,Básica,2019,0.1,4.7,2.13
+Cantabria,Básica,2020,0.3,1.4,21.43
+Cantabria,Básica,2020,0.3,4.2,7.14
+Cantabria,Básica,2021,0.2,1.1,18.18
+Cantabria,Básica,2021,0.2,4.5,4.44
+Cantabria,Básica,2022,,0.6,
+Cantabria,Básica,2022,,2.7,
+Cantabria,Básica,2023,,0.5,
+Cantabria,Básica,2023,,3.5,
+Cantabria,Básica,2024,0.2,1.2,16.67
+Cantabria,Básica,2024,0.2,3.3,6.06
+Cantabria,Básica,2014,4.0,0.8,500.0
+Cantabria,Básica,2014,4.0,14.8,27.03
+Cantabria,Básica,2015,1.9,0.7,271.43
+Cantabria,Básica,2015,1.9,9.6,19.79
+Cantabria,Básica,2016,2.1,0.7,300.0
+Cantabria,Básica,2016,2.1,7.6,27.63
+Cantabria,Básica,2017,1.8,1.1,163.64
+Cantabria,Básica,2017,1.8,7.4,24.32
+Cantabria,Básica,2018,1.2,0.6,200.0
+Cantabria,Básica,2018,1.2,7.2,16.67
+Cantabria,Básica,2019,1.0,0.9,111.11
+Cantabria,Básica,2019,1.0,4.7,21.28
+Cantabria,Básica,2020,1.0,1.4,71.43
+Cantabria,Básica,2020,1.0,4.2,23.81
+Cantabria,Básica,2021,1.2,1.1,109.09
+Cantabria,Básica,2021,1.2,4.5,26.67
+Cantabria,Básica,2022,0.7,0.6,116.67
+Cantabria,Básica,2022,0.7,2.7,25.93
+Cantabria,Básica,2023,0.4,0.5,80.0
+Cantabria,Básica,2023,0.4,3.5,11.43
+Cantabria,Básica,2024,0.7,1.2,58.33
+Cantabria,Básica,2024,0.7,3.3,21.21
+Cantabria,ESO,2014,19.6,71.5,27.41
+Cantabria,ESO,2015,20.2,79.3,25.47
+Cantabria,ESO,2016,14.6,77.9,18.74
+Cantabria,ESO,2017,12.4,71.7,17.29
+Cantabria,ESO,2018,9.9,66.4,14.91
+Cantabria,ESO,2019,10.8,69.9,15.45
+Cantabria,ESO,2020,11.9,69.1,17.22
+Cantabria,ESO,2021,11.8,69.7,16.93
+Cantabria,ESO,2022,9.3,67.7,13.74
+Cantabria,ESO,2023,6.2,60.4,10.26
+Cantabria,ESO,2024,6.0,63.4,9.46
+Cantabria,Otros,2014,7.7,39.9,19.3
+Cantabria,Otros,2015,6.4,35.9,17.83
+Cantabria,Otros,2016,5.4,33.8,15.98
+Cantabria,Otros,2017,5.1,33.4,15.27
+Cantabria,Otros,2018,5.0,39.7,12.59
+Cantabria,Otros,2019,3.9,38.0,10.26
+Cantabria,Otros,2020,3.8,30.7,12.38
+Cantabria,Otros,2021,3.5,30.8,11.36
+Cantabria,Otros,2022,3.7,34.2,10.82
+Cantabria,Otros,2023,3.8,33.3,11.41
+Cantabria,Otros,2024,4.0,35.3,11.33
+Cantabria,FP,2014,7.4,36.7,20.16
+Cantabria,FP,2015,5.3,34.6,15.32
+Cantabria,FP,2016,5.3,35.9,14.76
+Cantabria,FP,2017,5.5,38.2,14.4
+Cantabria,FP,2018,4.0,36.0,11.11
+Cantabria,FP,2019,3.7,35.7,10.36
+Cantabria,FP,2020,4.4,37.5,11.73
+Cantabria,FP,2021,3.9,40.8,9.56
+Cantabria,FP,2022,3.4,35.8,9.5
+Cantabria,FP,2023,3.1,34.9,8.88
+Cantabria,FP,2024,3.1,38.8,7.99
+Cantabria,Superior,2014,15.5,116.0,13.36
+Cantabria,Superior,2015,14.6,116.5,12.53
+Cantabria,Superior,2016,13.7,120.1,11.41
+Cantabria,Superior,2017,11.8,121.9,9.68
+Cantabria,Superior,2018,8.7,119.5,7.28
+Cantabria,Superior,2019,8.3,122.1,6.8
+Cantabria,Superior,2020,10.9,123.4,8.83
+Cantabria,Superior,2021,10.4,129.1,8.06
+Cantabria,Superior,2022,9.2,134.1,6.86
+Cantabria,Superior,2023,9.0,144.8,6.22
+Cantabria,Superior,2024,8.4,143.9,5.84
+Castilla y León,Analfabetos,2014,2.4,3.8,63.16
+Castilla y León,Analfabetos,2015,1.8,3.4,52.94
+Castilla y León,Analfabetos,2016,1.3,2.7,48.15
+Castilla y León,Analfabetos,2017,1.3,2.5,52.0
+Castilla y León,Analfabetos,2018,1.6,2.3,69.57
+Castilla y León,Analfabetos,2019,0.8,1.4,57.14
+Castilla y León,Analfabetos,2020,0.7,1.5,46.67
+Castilla y León,Analfabetos,2021,0.3,0.9,33.33
+Castilla y León,Analfabetos,2022,0.3,2.6,11.54
+Castilla y León,Analfabetos,2023,0.3,2.7,11.11
+Castilla y León,Analfabetos,2024,0.4,2.0,20.0
+Castilla y León,Básica,2014,3.6,9.3,38.71
+Castilla y León,Básica,2014,3.6,76.5,4.71
+Castilla y León,Básica,2015,4.2,10.2,41.18
+Castilla y León,Básica,2015,4.2,75.8,5.54
+Castilla y León,Básica,2016,4.7,10.6,44.34
+Castilla y León,Básica,2016,4.7,72.8,6.46
+Castilla y León,Básica,2017,2.7,7.8,34.62
+Castilla y León,Básica,2017,2.7,62.8,4.3
+Castilla y León,Básica,2018,2.5,8.5,29.41
+Castilla y León,Básica,2018,2.5,60.1,4.16
+Castilla y León,Básica,2019,2.1,5.6,37.5
+Castilla y León,Básica,2019,2.1,61.9,3.39
+Castilla y León,Básica,2020,1.6,5.4,29.63
+Castilla y León,Básica,2020,1.6,52.1,3.07
+Castilla y León,Básica,2021,1.0,4.8,20.83
+Castilla y León,Básica,2021,1.0,49.4,2.02
+Castilla y León,Básica,2022,1.7,5.7,29.82
+Castilla y León,Básica,2022,1.7,48.2,3.53
+Castilla y León,Básica,2023,1.1,7.1,15.49
+Castilla y León,Básica,2023,1.1,48.7,2.26
+Castilla y León,Básica,2024,2.3,9.4,24.47
+Castilla y León,Básica,2024,2.3,42.1,5.46
+Castilla y León,Básica,2014,25.3,9.3,272.04
+Castilla y León,Básica,2014,25.3,76.5,33.07
+Castilla y León,Básica,2015,23.0,10.2,225.49
+Castilla y León,Básica,2015,23.0,75.8,30.34
+Castilla y León,Básica,2016,21.7,10.6,204.72
+Castilla y León,Básica,2016,21.7,72.8,29.81
+Castilla y León,Básica,2017,17.8,7.8,228.21
+Castilla y León,Básica,2017,17.8,62.8,28.34
+Castilla y León,Básica,2018,14.9,8.5,175.29
+Castilla y León,Básica,2018,14.9,60.1,24.79
+Castilla y León,Básica,2019,15.4,5.6,275.0
+Castilla y León,Básica,2019,15.4,61.9,24.88
+Castilla y León,Básica,2020,14.0,5.4,259.26
+Castilla y León,Básica,2020,14.0,52.1,26.87
+Castilla y León,Básica,2021,13.1,4.8,272.92
+Castilla y León,Básica,2021,13.1,49.4,26.52
+Castilla y León,Básica,2022,12.2,5.7,214.04
+Castilla y León,Básica,2022,12.2,48.2,25.31
+Castilla y León,Básica,2023,11.6,7.1,163.38
+Castilla y León,Básica,2023,11.6,48.7,23.82
+Castilla y León,Básica,2024,9.4,9.4,100.0
+Castilla y León,Básica,2024,9.4,42.1,22.33
+Castilla y León,ESO,2014,91.0,356.8,25.5
+Castilla y León,ESO,2015,80.3,359.0,22.37
+Castilla y León,ESO,2016,68.8,352.6,19.51
+Castilla y León,ESO,2017,59.9,341.9,17.52
+Castilla y León,ESO,2018,48.9,330.1,14.81
+Castilla y León,ESO,2019,45.2,323.4,13.98
+Castilla y León,ESO,2020,46.5,311.7,14.92
+Castilla y León,ESO,2021,44.3,307.4,14.41
+Castilla y León,ESO,2022,36.7,306.2,11.99
+Castilla y León,ESO,2023,34.4,299.0,11.51
+Castilla y León,ESO,2024,38.0,306.4,12.4
+Castilla y León,Otros,2014,28.3,153.1,18.48
+Castilla y León,Otros,2015,24.5,141.6,17.3
+Castilla y León,Otros,2016,21.2,145.9,14.53
+Castilla y León,Otros,2017,19.2,148.6,12.92
+Castilla y León,Otros,2018,16.4,147.3,11.13
+Castilla y León,Otros,2019,14.7,140.2,10.49
+Castilla y León,Otros,2020,17.8,141.7,12.56
+Castilla y León,Otros,2021,16.3,136.4,11.95
+Castilla y León,Otros,2022,14.8,148.7,9.95
+Castilla y León,Otros,2023,14.8,142.7,10.37
+Castilla y León,Otros,2024,13.9,136.2,10.21
+Castilla y León,FP,2014,27.7,132.0,20.98
+Castilla y León,FP,2015,23.0,127.7,18.01
+Castilla y León,FP,2016,20.3,138.8,14.63
+Castilla y León,FP,2017,19.3,136.5,14.14
+Castilla y León,FP,2018,14.8,136.7,10.83
+Castilla y León,FP,2019,14.5,130.2,11.14
+Castilla y León,FP,2020,14.5,127.7,11.35
+Castilla y León,FP,2021,17.8,140.2,12.7
+Castilla y León,FP,2022,15.9,136.4,11.66
+Castilla y León,FP,2023,11.9,141.7,8.4
+Castilla y León,FP,2024,12.5,143.8,8.69
+Castilla y León,Superior,2014,62.8,429.5,14.62
+Castilla y León,Superior,2015,53.0,431.0,12.3
+Castilla y León,Superior,2016,43.4,422.8,10.26
+Castilla y León,Superior,2017,39.0,430.9,9.05
+Castilla y León,Superior,2018,36.0,433.0,8.31
+Castilla y León,Superior,2019,37.7,458.6,8.22
+Castilla y León,Superior,2020,37.2,457.0,8.14
+Castilla y León,Superior,2021,35.6,465.2,7.65
+Castilla y León,Superior,2022,29.7,473.6,6.27
+Castilla y León,Superior,2023,34.3,477.9,7.18
+Castilla y León,Superior,2024,29.9,491.5,6.08
+Castilla - La Mancha,Analfabetos,2014,2.1,4.2,50.0
+Castilla - La Mancha,Analfabetos,2015,1.2,2.7,44.44
+Castilla - La Mancha,Analfabetos,2016,2.5,3.9,64.1
+Castilla - La Mancha,Analfabetos,2017,1.8,3.8,47.37
+Castilla - La Mancha,Analfabetos,2018,1.3,3.6,36.11
+Castilla - La Mancha,Analfabetos,2019,1.3,2.8,46.43
+Castilla - La Mancha,Analfabetos,2020,0.8,1.4,57.14
+Castilla - La Mancha,Analfabetos,2021,1.4,3.3,42.42
+Castilla - La Mancha,Analfabetos,2022,1.3,4.7,27.66
+Castilla - La Mancha,Analfabetos,2023,0.9,2.3,39.13
+Castilla - La Mancha,Analfabetos,2024,0.6,2.4,25.0
+Castilla - La Mancha,Básica,2014,12.1,23.8,50.84
+Castilla - La Mancha,Básica,2014,12.1,81.2,14.9
+Castilla - La Mancha,Básica,2015,6.8,18.1,37.57
+Castilla - La Mancha,Básica,2015,6.8,73.5,9.25
+Castilla - La Mancha,Básica,2016,8.0,18.0,44.44
+Castilla - La Mancha,Básica,2016,8.0,77.9,10.27
+Castilla - La Mancha,Básica,2017,6.4,15.1,42.38
+Castilla - La Mancha,Básica,2017,6.4,74.7,8.57
+Castilla - La Mancha,Básica,2018,4.7,14.5,32.41
+Castilla - La Mancha,Básica,2018,4.7,71.0,6.62
+Castilla - La Mancha,Básica,2019,2.1,9.6,21.88
+Castilla - La Mancha,Básica,2019,2.1,75.4,2.79
+Castilla - La Mancha,Básica,2020,2.3,8.8,26.14
+Castilla - La Mancha,Básica,2020,2.3,68.8,3.34
+Castilla - La Mancha,Básica,2021,1.6,8.7,18.39
+Castilla - La Mancha,Básica,2021,1.6,63.3,2.53
+Castilla - La Mancha,Básica,2022,3.1,9.1,34.07
+Castilla - La Mancha,Básica,2022,3.1,66.8,4.64
+Castilla - La Mancha,Básica,2023,2.6,10.0,26.0
+Castilla - La Mancha,Básica,2023,2.6,68.7,3.78
+Castilla - La Mancha,Básica,2024,3.8,10.3,36.89
+Castilla - La Mancha,Básica,2024,3.8,58.5,6.5
+Castilla - La Mancha,Básica,2014,37.8,23.8,158.82
+Castilla - La Mancha,Básica,2014,37.8,81.2,46.55
+Castilla - La Mancha,Básica,2015,30.5,18.1,168.51
+Castilla - La Mancha,Básica,2015,30.5,73.5,41.5
+Castilla - La Mancha,Básica,2016,30.2,18.0,167.78
+Castilla - La Mancha,Básica,2016,30.2,77.9,38.77
+Castilla - La Mancha,Básica,2017,24.7,15.1,163.58
+Castilla - La Mancha,Básica,2017,24.7,74.7,33.07
+Castilla - La Mancha,Básica,2018,21.9,14.5,151.03
+Castilla - La Mancha,Básica,2018,21.9,71.0,30.85
+Castilla - La Mancha,Básica,2019,20.8,9.6,216.67
+Castilla - La Mancha,Básica,2019,20.8,75.4,27.59
+Castilla - La Mancha,Básica,2020,19.9,8.8,226.14
+Castilla - La Mancha,Básica,2020,19.9,68.8,28.92
+Castilla - La Mancha,Básica,2021,16.4,8.7,188.51
+Castilla - La Mancha,Básica,2021,16.4,63.3,25.91
+Castilla - La Mancha,Básica,2022,18.9,9.1,207.69
+Castilla - La Mancha,Básica,2022,18.9,66.8,28.29
+Castilla - La Mancha,Básica,2023,17.7,10.0,177.0
+Castilla - La Mancha,Básica,2023,17.7,68.7,25.76
+Castilla - La Mancha,Básica,2024,15.7,10.3,152.43
+Castilla - La Mancha,Básica,2024,15.7,58.5,26.84
+Castilla - La Mancha,ESO,2014,119.7,359.6,33.29
+Castilla - La Mancha,ESO,2015,117.7,366.3,32.13
+Castilla - La Mancha,ESO,2016,101.8,366.9,27.75
+Castilla - La Mancha,ESO,2017,90.4,373.0,24.24
+Castilla - La Mancha,ESO,2018,77.7,368.0,21.11
+Castilla - La Mancha,ESO,2019,65.8,348.9,18.86
+Castilla - La Mancha,ESO,2020,70.7,341.0,20.73
+Castilla - La Mancha,ESO,2021,62.4,352.3,17.71
+Castilla - La Mancha,ESO,2022,63.1,349.6,18.05
+Castilla - La Mancha,ESO,2023,54.9,348.1,15.77
+Castilla - La Mancha,ESO,2024,54.5,357.0,15.27
+Castilla - La Mancha,Otros,2014,34.7,137.9,25.16
+Castilla - La Mancha,Otros,2015,29.3,132.3,22.15
+Castilla - La Mancha,Otros,2016,25.9,126.2,20.52
+Castilla - La Mancha,Otros,2017,23.6,125.5,18.8
+Castilla - La Mancha,Otros,2018,23.2,125.9,18.43
+Castilla - La Mancha,Otros,2019,19.8,123.4,16.05
+Castilla - La Mancha,Otros,2020,22.3,122.5,18.2
+Castilla - La Mancha,Otros,2021,22.6,134.8,16.77
+Castilla - La Mancha,Otros,2022,19.8,133.6,14.82
+Castilla - La Mancha,Otros,2023,18.5,127.6,14.5
+Castilla - La Mancha,Otros,2024,23.1,129.7,17.81
+Castilla - La Mancha,FP,2014,27.5,95.5,28.8
+Castilla - La Mancha,FP,2015,26.6,101.4,26.23
+Castilla - La Mancha,FP,2016,21.0,99.2,21.17
+Castilla - La Mancha,FP,2017,20.6,101.1,20.38
+Castilla - La Mancha,FP,2018,16.3,98.1,16.62
+Castilla - La Mancha,FP,2019,17.3,103.2,16.76
+Castilla - La Mancha,FP,2020,17.4,99.9,17.42
+Castilla - La Mancha,FP,2021,19.2,108.3,17.73
+Castilla - La Mancha,FP,2022,13.1,111.3,11.77
+Castilla - La Mancha,FP,2023,14.7,111.0,13.24
+Castilla - La Mancha,FP,2024,14.3,110.1,12.99
+Castilla - La Mancha,Superior,2014,56.8,300.9,18.88
+Castilla - La Mancha,Superior,2015,48.6,295.3,16.46
+Castilla - La Mancha,Superior,2016,42.2,291.5,14.48
+Castilla - La Mancha,Superior,2017,37.6,294.1,12.78
+Castilla - La Mancha,Superior,2018,33.4,302.5,11.04
+Castilla - La Mancha,Superior,2019,32.5,321.3,10.12
+Castilla - La Mancha,Superior,2020,38.1,327.5,11.63
+Castilla - La Mancha,Superior,2021,34.0,334.7,10.16
+Castilla - La Mancha,Superior,2022,30.2,345.9,8.73
+Castilla - La Mancha,Superior,2023,26.9,363.5,7.4
+Castilla - La Mancha,Superior,2024,26.4,369.6,7.14
+Cataluña,Analfabetos,2014,7.1,14.9,47.65
+Cataluña,Analfabetos,2015,4.7,10.2,46.08
+Cataluña,Analfabetos,2016,4.1,10.5,39.05
+Cataluña,Analfabetos,2017,5.0,11.1,45.05
+Cataluña,Analfabetos,2018,3.4,9.0,37.78
+Cataluña,Analfabetos,2019,2.8,12.1,23.14
+Cataluña,Analfabetos,2020,3.8,11.0,34.55
+Cataluña,Analfabetos,2021,3.9,12.9,30.23
+Cataluña,Analfabetos,2022,5.1,20.2,25.25
+Cataluña,Analfabetos,2023,4.1,16.5,24.85
+Cataluña,Analfabetos,2024,3.6,11.7,30.77
+Cataluña,Básica,2014,17.9,53.7,33.33
+Cataluña,Básica,2014,17.9,321.0,5.58
+Cataluña,Básica,2015,21.3,52.8,40.34
+Cataluña,Básica,2015,21.3,276.5,7.7
+Cataluña,Básica,2016,12.4,40.3,30.77
+Cataluña,Básica,2016,12.4,265.4,4.67
+Cataluña,Básica,2017,10.9,35.5,30.7
+Cataluña,Básica,2017,10.9,252.8,4.31
+Cataluña,Básica,2018,10.2,38.8,26.29
+Cataluña,Básica,2018,10.2,209.3,4.87
+Cataluña,Básica,2019,10.8,40.8,26.47
+Cataluña,Básica,2019,10.8,184.5,5.85
+Cataluña,Básica,2020,6.7,24.1,27.8
+Cataluña,Básica,2020,6.7,168.4,3.98
+Cataluña,Básica,2021,10.2,34.0,30.0
+Cataluña,Básica,2021,10.2,169.6,6.01
+Cataluña,Básica,2022,6.4,33.9,18.88
+Cataluña,Básica,2022,6.4,176.5,3.63
+Cataluña,Básica,2023,5.1,34.8,14.66
+Cataluña,Básica,2023,5.1,178.3,2.86
+Cataluña,Básica,2024,7.9,33.6,23.51
+Cataluña,Básica,2024,7.9,144.4,5.47
+Cataluña,Básica,2014,107.3,53.7,199.81
+Cataluña,Básica,2014,107.3,321.0,33.43
+Cataluña,Básica,2015,85.9,52.8,162.69
+Cataluña,Básica,2015,85.9,276.5,31.07
+Cataluña,Básica,2016,75.1,40.3,186.35
+Cataluña,Básica,2016,75.1,265.4,28.3
+Cataluña,Básica,2017,57.0,35.5,160.56
+Cataluña,Básica,2017,57.0,252.8,22.55
+Cataluña,Básica,2018,37.9,38.8,97.68
+Cataluña,Básica,2018,37.9,209.3,18.11
+Cataluña,Básica,2019,39.0,40.8,95.59
+Cataluña,Básica,2019,39.0,184.5,21.14
+Cataluña,Básica,2020,37.2,24.1,154.36
+Cataluña,Básica,2020,37.2,168.4,22.09
+Cataluña,Básica,2021,25.5,34.0,75.0
+Cataluña,Básica,2021,25.5,169.6,15.04
+Cataluña,Básica,2022,32.0,33.9,94.4
+Cataluña,Básica,2022,32.0,176.5,18.13
+Cataluña,Básica,2023,27.4,34.8,78.74
+Cataluña,Básica,2023,27.4,178.3,15.37
+Cataluña,Básica,2024,28.3,33.6,84.23
+Cataluña,Básica,2024,28.3,144.4,19.6
+Cataluña,ESO,2014,295.1,,
+Cataluña,ESO,2015,266.8,,
+Cataluña,ESO,2016,221.4,,
+Cataluña,ESO,2017,195.1,,
+Cataluña,ESO,2018,163.3,,
+Cataluña,ESO,2019,164.3,,
+Cataluña,ESO,2020,178.1,,
+Cataluña,ESO,2021,173.1,,
+Cataluña,ESO,2022,154.2,990.3,15.57
+Cataluña,ESO,2023,139.2,993.5,14.01
+Cataluña,ESO,2024,135.0,994.1,13.58
+Cataluña,Otros,2014,97.1,505.1,19.22
+Cataluña,Otros,2015,91.6,507.8,18.04
+Cataluña,Otros,2016,80.3,535.6,14.99
+Cataluña,Otros,2017,73.2,516.2,14.18
+Cataluña,Otros,2018,68.8,502.2,13.7
+Cataluña,Otros,2019,62.0,510.3,12.15
+Cataluña,Otros,2020,76.4,491.1,15.56
+Cataluña,Otros,2021,73.2,556.1,13.16
+Cataluña,Otros,2022,66.3,555.4,11.94
+Cataluña,Otros,2023,63.3,587.2,10.78
+Cataluña,Otros,2024,57.5,625.6,9.19
+Cataluña,FP,2014,76.1,335.5,22.68
+Cataluña,FP,2015,75.0,354.5,21.16
+Cataluña,FP,2016,66.2,350.5,18.89
+Cataluña,FP,2017,49.3,351.4,14.03
+Cataluña,FP,2018,46.4,369.4,12.56
+Cataluña,FP,2019,42.8,363.0,11.79
+Cataluña,FP,2020,49.1,388.9,12.63
+Cataluña,FP,2021,57.7,397.0,14.53
+Cataluña,FP,2022,40.2,389.9,10.31
+Cataluña,FP,2023,41.4,387.8,10.68
+Cataluña,FP,2024,40.2,379.7,10.59
+Cataluña,Superior,2014,172.7,,
+Cataluña,Superior,2015,157.7,,
+Cataluña,Superior,2016,134.1,,
+Cataluña,Superior,2017,116.7,,
+Cataluña,Superior,2018,106.5,,
+Cataluña,Superior,2019,104.8,,
+Cataluña,Superior,2020,131.0,,
+Cataluña,Superior,2021,118.5,,
+Cataluña,Superior,2022,93.7,,
+Cataluña,Superior,2023,103.9,,
+Cataluña,Superior,2024,101.3,,
+Comunitat Valenciana,Analfabetos,2014,3.6,8.1,44.44
+Comunitat Valenciana,Analfabetos,2015,1.5,5.3,28.3
+Comunitat Valenciana,Analfabetos,2016,2.4,6.1,39.34
+Comunitat Valenciana,Analfabetos,2017,3.1,6.5,47.69
+Comunitat Valenciana,Analfabetos,2018,2.4,5.0,48.0
+Comunitat Valenciana,Analfabetos,2019,1.9,5.5,34.55
+Comunitat Valenciana,Analfabetos,2020,2.8,8.6,32.56
+Comunitat Valenciana,Analfabetos,2021,4.0,7.6,52.63
+Comunitat Valenciana,Analfabetos,2022,5.7,11.0,51.82
+Comunitat Valenciana,Analfabetos,2023,3.6,5.1,70.59
+Comunitat Valenciana,Analfabetos,2024,2.7,4.2,64.29
+Comunitat Valenciana,Básica,2014,10.0,22.4,44.64
+Comunitat Valenciana,Básica,2014,10.0,168.0,5.95
+Comunitat Valenciana,Básica,2015,8.2,21.8,37.61
+Comunitat Valenciana,Básica,2015,8.2,132.4,6.19
+Comunitat Valenciana,Básica,2016,7.2,21.6,33.33
+Comunitat Valenciana,Básica,2016,7.2,103.0,6.99
+Comunitat Valenciana,Básica,2017,8.4,22.7,37.0
+Comunitat Valenciana,Básica,2017,8.4,99.9,8.41
+Comunitat Valenciana,Básica,2018,8.5,21.5,39.53
+Comunitat Valenciana,Básica,2018,8.5,92.7,9.17
+Comunitat Valenciana,Básica,2019,6.5,19.9,32.66
+Comunitat Valenciana,Básica,2019,6.5,86.0,7.56
+Comunitat Valenciana,Básica,2020,5.3,19.4,27.32
+Comunitat Valenciana,Básica,2020,5.3,74.6,7.1
+Comunitat Valenciana,Básica,2021,4.5,17.6,25.57
+Comunitat Valenciana,Básica,2021,4.5,90.8,4.96
+Comunitat Valenciana,Básica,2022,7.8,33.0,23.64
+Comunitat Valenciana,Básica,2022,7.8,77.7,10.04
+Comunitat Valenciana,Básica,2023,7.3,34.1,21.41
+Comunitat Valenciana,Básica,2023,7.3,78.1,9.35
+Comunitat Valenciana,Básica,2024,7.6,28.6,26.57
+Comunitat Valenciana,Básica,2024,7.6,74.8,10.16
+Comunitat Valenciana,Básica,2014,66.4,22.4,296.43
+Comunitat Valenciana,Básica,2014,66.4,168.0,39.52
+Comunitat Valenciana,Básica,2015,53.6,21.8,245.87
+Comunitat Valenciana,Básica,2015,53.6,132.4,40.48
+Comunitat Valenciana,Básica,2016,36.2,21.6,167.59
+Comunitat Valenciana,Básica,2016,36.2,103.0,35.15
+Comunitat Valenciana,Básica,2017,28.9,22.7,127.31
+Comunitat Valenciana,Básica,2017,28.9,99.9,28.93
+Comunitat Valenciana,Básica,2018,26.5,21.5,123.26
+Comunitat Valenciana,Básica,2018,26.5,92.7,28.59
+Comunitat Valenciana,Básica,2019,19.6,19.9,98.49
+Comunitat Valenciana,Básica,2019,19.6,86.0,22.79
+Comunitat Valenciana,Básica,2020,21.2,19.4,109.28
+Comunitat Valenciana,Básica,2020,21.2,74.6,28.42
+Comunitat Valenciana,Básica,2021,28.2,17.6,160.23
+Comunitat Valenciana,Básica,2021,28.2,90.8,31.06
+Comunitat Valenciana,Básica,2022,22.4,33.0,67.88
+Comunitat Valenciana,Básica,2022,22.4,77.7,28.83
+Comunitat Valenciana,Básica,2023,20.7,34.1,60.7
+Comunitat Valenciana,Básica,2023,20.7,78.1,26.5
+Comunitat Valenciana,Básica,2024,15.0,28.6,52.45
+Comunitat Valenciana,Básica,2024,15.0,74.8,20.05
+Comunitat Valenciana,ESO,2014,250.3,809.9,30.91
+Comunitat Valenciana,ESO,2015,234.5,828.6,28.3
+Comunitat Valenciana,ESO,2016,215.3,836.8,25.73
+Comunitat Valenciana,ESO,2017,186.2,827.0,22.52
+Comunitat Valenciana,ESO,2018,162.1,788.8,20.55
+Comunitat Valenciana,ESO,2019,134.1,773.0,17.35
+Comunitat Valenciana,ESO,2020,140.0,730.0,19.18
+Comunitat Valenciana,ESO,2021,153.6,747.2,20.56
+Comunitat Valenciana,ESO,2022,146.3,840.1,17.41
+Comunitat Valenciana,ESO,2023,141.6,839.1,16.88
+Comunitat Valenciana,ESO,2024,132.9,851.1,15.62
+Comunitat Valenciana,Otros,2014,89.4,351.9,25.4
+Comunitat Valenciana,Otros,2015,72.2,341.9,21.12
+Comunitat Valenciana,Otros,2016,67.4,334.8,20.13
+Comunitat Valenciana,Otros,2017,64.1,360.7,17.77
+Comunitat Valenciana,Otros,2018,51.6,339.9,15.18
+Comunitat Valenciana,Otros,2019,49.0,336.0,14.58
+Comunitat Valenciana,Otros,2020,65.0,339.6,19.14
+Comunitat Valenciana,Otros,2021,66.9,337.8,19.8
+Comunitat Valenciana,Otros,2022,41.3,298.3,13.85
+Comunitat Valenciana,Otros,2023,42.7,300.0,14.23
+Comunitat Valenciana,Otros,2024,50.4,328.7,15.33
+Comunitat Valenciana,FP,2014,69.5,251.0,27.69
+Comunitat Valenciana,FP,2015,66.0,266.6,24.76
+Comunitat Valenciana,FP,2016,63.2,279.7,22.6
+Comunitat Valenciana,FP,2017,49.5,259.9,19.05
+Comunitat Valenciana,FP,2018,34.3,267.9,12.8
+Comunitat Valenciana,FP,2019,33.5,265.5,12.62
+Comunitat Valenciana,FP,2020,40.4,267.9,15.08
+Comunitat Valenciana,FP,2021,43.2,270.1,15.99
+Comunitat Valenciana,FP,2022,41.0,288.8,14.2
+Comunitat Valenciana,FP,2023,43.4,302.3,14.36
+Comunitat Valenciana,FP,2024,42.3,313.7,13.48
+Comunitat Valenciana,Superior,2014,137.5,816.5,16.84
+Comunitat Valenciana,Superior,2015,116.8,829.0,14.09
+Comunitat Valenciana,Superior,2016,109.9,851.5,12.91
+Comunitat Valenciana,Superior,2017,101.9,855.6,11.91
+Comunitat Valenciana,Superior,2018,91.9,904.2,10.16
+Comunitat Valenciana,Superior,2019,98.3,944.3,10.41
+Comunitat Valenciana,Superior,2020,115.4,970.5,11.89
+Comunitat Valenciana,Superior,2021,97.3,,
+Comunitat Valenciana,Superior,2022,75.4,,
+Comunitat Valenciana,Superior,2023,78.8,,
+Comunitat Valenciana,Superior,2024,87.9,,
+Extremadura,Analfabetos,2014,1.3,1.6,81.25
+Extremadura,Analfabetos,2015,1.6,2.3,69.57
+Extremadura,Analfabetos,2016,0.7,1.3,53.85
+Extremadura,Analfabetos,2017,0.6,0.8,75.0
+Extremadura,Analfabetos,2018,0.8,1.6,50.0
+Extremadura,Analfabetos,2019,1.0,1.4,71.43
+Extremadura,Analfabetos,2020,0.8,2.3,34.78
+Extremadura,Analfabetos,2021,2.1,3.7,56.76
+Extremadura,Analfabetos,2022,0.8,1.4,57.14
+Extremadura,Analfabetos,2023,0.1,0.5,20.0
+Extremadura,Analfabetos,2024,0.3,0.8,37.5
+Extremadura,Básica,2014,4.9,10.9,44.95
+Extremadura,Básica,2014,4.9,34.0,14.41
+Extremadura,Básica,2015,4.7,10.0,47.0
+Extremadura,Básica,2015,4.7,35.8,13.13
+Extremadura,Básica,2016,3.2,7.7,41.56
+Extremadura,Básica,2016,3.2,36.7,8.72
+Extremadura,Básica,2017,3.3,7.2,45.83
+Extremadura,Básica,2017,3.3,32.1,10.28
+Extremadura,Básica,2018,3.1,6.7,46.27
+Extremadura,Básica,2018,3.1,39.3,7.89
+Extremadura,Básica,2019,2.8,7.5,37.33
+Extremadura,Básica,2019,2.8,42.1,6.65
+Extremadura,Básica,2020,2.6,6.5,40.0
+Extremadura,Básica,2020,2.6,35.3,7.37
+Extremadura,Básica,2021,2.4,5.3,45.28
+Extremadura,Básica,2021,2.4,27.9,8.6
+Extremadura,Básica,2022,2.2,4.7,46.81
+Extremadura,Básica,2022,2.2,23.0,9.57
+Extremadura,Básica,2023,1.9,5.8,32.76
+Extremadura,Básica,2023,1.9,27.0,7.04
+Extremadura,Básica,2024,0.7,2.7,25.93
+Extremadura,Básica,2024,0.7,23.1,3.03
+Extremadura,Básica,2014,12.9,10.9,118.35
+Extremadura,Básica,2014,12.9,34.0,37.94
+Extremadura,Básica,2015,15.8,10.0,158.0
+Extremadura,Básica,2015,15.8,35.8,44.13
+Extremadura,Básica,2016,17.2,7.7,223.38
+Extremadura,Básica,2016,17.2,36.7,46.87
+Extremadura,Básica,2017,12.8,7.2,177.78
+Extremadura,Básica,2017,12.8,32.1,39.88
+Extremadura,Básica,2018,14.5,6.7,216.42
+Extremadura,Básica,2018,14.5,39.3,36.9
+Extremadura,Básica,2019,15.2,7.5,202.67
+Extremadura,Básica,2019,15.2,42.1,36.1
+Extremadura,Básica,2020,12.7,6.5,195.38
+Extremadura,Básica,2020,12.7,35.3,35.98
+Extremadura,Básica,2021,10.1,5.3,190.57
+Extremadura,Básica,2021,10.1,27.9,36.2
+Extremadura,Básica,2022,7.2,4.7,153.19
+Extremadura,Básica,2022,7.2,23.0,31.3
+Extremadura,Básica,2023,8.1,5.8,139.66
+Extremadura,Básica,2023,8.1,27.0,30.0
+Extremadura,Básica,2024,6.9,2.7,255.56
+Extremadura,Básica,2024,6.9,23.1,29.87
+Extremadura,ESO,2014,81.4,217.9,37.36
+Extremadura,ESO,2015,74.3,214.2,34.69
+Extremadura,ESO,2016,69.1,219.2,31.52
+Extremadura,ESO,2017,70.9,217.6,32.58
+Extremadura,ESO,2018,55.6,202.0,27.52
+Extremadura,ESO,2019,47.0,196.8,23.88
+Extremadura,ESO,2020,46.3,184.3,25.12
+Extremadura,ESO,2021,44.1,186.7,23.62
+Extremadura,ESO,2022,39.0,183.2,21.29
+Extremadura,ESO,2023,35.8,174.2,20.55
+Extremadura,ESO,2024,32.6,174.5,18.68
+Extremadura,Otros,2014,11.7,46.1,25.38
+Extremadura,Otros,2015,10.6,46.5,22.8
+Extremadura,Otros,2016,10.0,47.0,21.28
+Extremadura,Otros,2017,9.3,45.0,20.67
+Extremadura,Otros,2018,9.0,48.0,18.75
+Extremadura,Otros,2019,9.5,51.6,18.41
+Extremadura,Otros,2020,10.1,50.2,20.12
+Extremadura,Otros,2021,7.9,51.8,15.25
+Extremadura,Otros,2022,7.2,50.6,14.23
+Extremadura,Otros,2023,8.0,47.9,16.7
+Extremadura,Otros,2024,8.5,51.7,16.44
+Extremadura,FP,2014,10.2,43.2,23.61
+Extremadura,FP,2015,13.6,44.1,30.84
+Extremadura,FP,2016,13.2,46.9,28.14
+Extremadura,FP,2017,11.2,44.8,25.0
+Extremadura,FP,2018,11.8,52.4,22.52
+Extremadura,FP,2019,12.4,52.5,23.62
+Extremadura,FP,2020,14.4,58.3,24.7
+Extremadura,FP,2021,10.7,58.3,18.35
+Extremadura,FP,2022,10.7,55.9,19.14
+Extremadura,FP,2023,11.4,57.4,19.86
+Extremadura,FP,2024,6.5,49.4,13.16
+Extremadura,Superior,2014,27.6,150.4,18.35
+Extremadura,Superior,2015,25.8,150.4,17.15
+Extremadura,Superior,2016,24.6,142.5,17.26
+Extremadura,Superior,2017,21.7,147.6,14.7
+Extremadura,Superior,2018,22.5,146.2,15.39
+Extremadura,Superior,2019,19.4,146.1,13.28
+Extremadura,Superior,2020,19.2,149.3,12.86
+Extremadura,Superior,2021,22.4,161.1,13.9
+Extremadura,Superior,2022,18.7,176.4,10.6
+Extremadura,Superior,2023,22.0,189.8,11.59
+Extremadura,Superior,2024,21.3,192.8,11.05
+Galicia,Analfabetos,2014,0.5,1.2,41.67
+Galicia,Analfabetos,2015,0.8,2.0,40.0
+Galicia,Analfabetos,2016,0.9,1.7,52.94
+Galicia,Analfabetos,2017,1.1,1.5,73.33
+Galicia,Analfabetos,2018,0.9,1.7,52.94
+Galicia,Analfabetos,2019,0.2,0.9,22.22
+Galicia,Analfabetos,2020,0.2,1.0,20.0
+Galicia,Analfabetos,2021,0.2,0.5,40.0
+Galicia,Analfabetos,2022,0.2,1.7,11.76
+Galicia,Analfabetos,2023,0.7,1.2,58.33
+Galicia,Analfabetos,2024,0.5,0.8,62.5
+Galicia,Básica,2014,2.8,10.0,28.0
+Galicia,Básica,2014,2.8,71.7,3.91
+Galicia,Básica,2015,3.8,12.1,31.4
+Galicia,Básica,2015,3.8,66.7,5.7
+Galicia,Básica,2016,3.8,11.7,32.48
+Galicia,Básica,2016,3.8,59.9,6.34
+Galicia,Básica,2017,4.1,12.5,32.8
+Galicia,Básica,2017,4.1,57.5,7.13
+Galicia,Básica,2018,3.8,12.4,30.65
+Galicia,Básica,2018,3.8,48.2,7.88
+Galicia,Básica,2019,2.4,7.4,32.43
+Galicia,Básica,2019,2.4,35.6,6.74
+Galicia,Básica,2020,1.4,3.8,36.84
+Galicia,Básica,2020,1.4,30.5,4.59
+Galicia,Básica,2021,1.4,3.4,41.18
+Galicia,Básica,2021,1.4,26.4,5.3
+Galicia,Básica,2022,0.8,2.6,30.77
+Galicia,Básica,2022,0.8,27.2,2.94
+Galicia,Básica,2023,0.8,2.5,32.0
+Galicia,Básica,2023,0.8,34.4,2.33
+Galicia,Básica,2024,0.6,2.4,25.0
+Galicia,Básica,2024,0.6,35.4,1.69
+Galicia,Básica,2014,21.1,10.0,211.0
+Galicia,Básica,2014,21.1,71.7,29.43
+Galicia,Básica,2015,18.6,12.1,153.72
+Galicia,Básica,2015,18.6,66.7,27.89
+Galicia,Básica,2016,19.7,11.7,168.38
+Galicia,Básica,2016,19.7,59.9,32.89
+Galicia,Básica,2017,15.8,12.5,126.4
+Galicia,Básica,2017,15.8,57.5,27.48
+Galicia,Básica,2018,11.8,12.4,95.16
+Galicia,Básica,2018,11.8,48.2,24.48
+Galicia,Básica,2019,9.7,7.4,131.08
+Galicia,Básica,2019,9.7,35.6,27.25
+Galicia,Básica,2020,6.8,3.8,178.95
+Galicia,Básica,2020,6.8,30.5,22.3
+Galicia,Básica,2021,5.3,3.4,155.88
+Galicia,Básica,2021,5.3,26.4,20.08
+Galicia,Básica,2022,6.2,2.6,238.46
+Galicia,Básica,2022,6.2,27.2,22.79
+Galicia,Básica,2023,7.3,2.5,292.0
+Galicia,Básica,2023,7.3,34.4,21.22
+Galicia,Básica,2024,7.3,2.4,304.17
+Galicia,Básica,2024,7.3,35.4,20.62
+Galicia,ESO,2014,122.8,447.7,27.43
+Galicia,ESO,2015,99.3,419.2,23.69
+Galicia,ESO,2016,84.5,409.5,20.63
+Galicia,ESO,2017,77.9,398.9,19.53
+Galicia,ESO,2018,65.0,384.4,16.91
+Galicia,ESO,2019,55.4,382.3,14.49
+Galicia,ESO,2020,50.8,365.2,13.91
+Galicia,ESO,2021,48.7,362.9,13.42
+Galicia,ESO,2022,46.7,357.5,13.06
+Galicia,ESO,2023,38.2,351.0,10.88
+Galicia,ESO,2024,39.4,338.5,11.64
+Galicia,Otros,2014,29.2,146.1,19.99
+Galicia,Otros,2015,26.8,147.2,18.21
+Galicia,Otros,2016,23.7,145.8,16.26
+Galicia,Otros,2017,19.5,141.0,13.83
+Galicia,Otros,2018,21.6,154.8,13.95
+Galicia,Otros,2019,21.1,156.2,13.51
+Galicia,Otros,2020,21.4,150.6,14.21
+Galicia,Otros,2021,21.7,148.5,14.61
+Galicia,Otros,2022,18.3,144.5,12.66
+Galicia,Otros,2023,18.0,155.0,11.61
+Galicia,Otros,2024,15.8,150.6,10.49
+Galicia,FP,2014,28.6,123.2,23.21
+Galicia,FP,2015,24.4,123.3,19.79
+Galicia,FP,2016,22.7,131.6,17.25
+Galicia,FP,2017,20.9,131.6,15.88
+Galicia,FP,2018,17.8,135.0,13.19
+Galicia,FP,2019,17.4,140.4,12.39
+Galicia,FP,2020,15.2,129.2,11.76
+Galicia,FP,2021,14.5,131.7,11.01
+Galicia,FP,2022,17.7,138.9,12.74
+Galicia,FP,2023,16.2,146.6,11.05
+Galicia,FP,2024,15.8,156.8,10.08
+Galicia,Superior,2014,70.8,474.0,14.94
+Galicia,Superior,2015,69.7,490.2,14.22
+Galicia,Superior,2016,60.2,495.9,12.14
+Galicia,Superior,2017,56.2,505.3,11.12
+Galicia,Superior,2018,45.0,506.9,8.88
+Galicia,Superior,2019,39.7,518.3,7.66
+Galicia,Superior,2020,50.9,540.6,9.42
+Galicia,Superior,2021,50.0,555.5,9.0
+Galicia,Superior,2022,46.9,567.9,8.26
+Galicia,Superior,2023,40.4,559.2,7.22
+Galicia,Superior,2024,39.0,577.8,6.75
+"Madrid, Comunidad de",Analfabetos,2014,3.0,7.4,40.54
+"Madrid, Comunidad de",Analfabetos,2015,4.7,7.4,63.51
+"Madrid, Comunidad de",Analfabetos,2016,2.1,5.0,42.0
+"Madrid, Comunidad de",Analfabetos,2017,4.1,6.8,60.29
+"Madrid, Comunidad de",Analfabetos,2018,3.9,6.2,62.9
+"Madrid, Comunidad de",Analfabetos,2019,1.5,3.0,50.0
+"Madrid, Comunidad de",Analfabetos,2020,1.9,4.0,47.5
+"Madrid, Comunidad de",Analfabetos,2021,0.6,6.0,10.0
+"Madrid, Comunidad de",Analfabetos,2022,1.2,5.6,21.43
+"Madrid, Comunidad de",Analfabetos,2023,1.1,5.4,20.37
+"Madrid, Comunidad de",Analfabetos,2024,2.0,6.9,28.99
+"Madrid, Comunidad de",Básica,2014,11.2,28.9,38.75
+"Madrid, Comunidad de",Básica,2014,11.2,130.1,8.61
+"Madrid, Comunidad de",Básica,2015,14.1,28.4,49.65
+"Madrid, Comunidad de",Básica,2015,14.1,144.9,9.73
+"Madrid, Comunidad de",Básica,2016,6.5,22.0,29.55
+"Madrid, Comunidad de",Básica,2016,6.5,147.3,4.41
+"Madrid, Comunidad de",Básica,2017,4.2,21.2,19.81
+"Madrid, Comunidad de",Básica,2017,4.2,126.3,3.33
+"Madrid, Comunidad de",Básica,2018,7.2,26.7,26.97
+"Madrid, Comunidad de",Básica,2018,7.2,131.6,5.47
+"Madrid, Comunidad de",Básica,2019,5.0,20.6,24.27
+"Madrid, Comunidad de",Básica,2019,5.0,116.5,4.29
+"Madrid, Comunidad de",Básica,2020,4.0,14.7,27.21
+"Madrid, Comunidad de",Básica,2020,4.0,108.6,3.68
+"Madrid, Comunidad de",Básica,2021,3.9,14.5,26.9
+"Madrid, Comunidad de",Básica,2021,3.9,110.9,3.52
+"Madrid, Comunidad de",Básica,2022,2.2,10.5,20.95
+"Madrid, Comunidad de",Básica,2022,2.2,113.9,1.93
+"Madrid, Comunidad de",Básica,2023,4.3,19.8,21.72
+"Madrid, Comunidad de",Básica,2023,4.3,150.5,2.86
+"Madrid, Comunidad de",Básica,2024,1.9,11.0,17.27
+"Madrid, Comunidad de",Básica,2024,1.9,145.8,1.3
+"Madrid, Comunidad de",Básica,2014,41.2,28.9,142.56
+"Madrid, Comunidad de",Básica,2014,41.2,130.1,31.67
+"Madrid, Comunidad de",Básica,2015,43.1,28.4,151.76
+"Madrid, Comunidad de",Básica,2015,43.1,144.9,29.74
+"Madrid, Comunidad de",Básica,2016,47.7,22.0,216.82
+"Madrid, Comunidad de",Básica,2016,47.7,147.3,32.38
+"Madrid, Comunidad de",Básica,2017,32.4,21.2,152.83
+"Madrid, Comunidad de",Básica,2017,32.4,126.3,25.65
+"Madrid, Comunidad de",Básica,2018,27.7,26.7,103.75
+"Madrid, Comunidad de",Básica,2018,27.7,131.6,21.05
+"Madrid, Comunidad de",Básica,2019,18.6,20.6,90.29
+"Madrid, Comunidad de",Básica,2019,18.6,116.5,15.97
+"Madrid, Comunidad de",Básica,2020,23.5,14.7,159.86
+"Madrid, Comunidad de",Básica,2020,23.5,108.6,21.64
+"Madrid, Comunidad de",Básica,2021,22.8,14.5,157.24
+"Madrid, Comunidad de",Básica,2021,22.8,110.9,20.56
+"Madrid, Comunidad de",Básica,2022,25.8,10.5,245.71
+"Madrid, Comunidad de",Básica,2022,25.8,113.9,22.65
+"Madrid, Comunidad de",Básica,2023,35.1,19.8,177.27
+"Madrid, Comunidad de",Básica,2023,35.1,150.5,23.32
+"Madrid, Comunidad de",Básica,2024,26.9,11.0,244.55
+"Madrid, Comunidad de",Básica,2024,26.9,145.8,18.45
+"Madrid, Comunidad de",ESO,2014,183.0,676.8,27.04
+"Madrid, Comunidad de",ESO,2015,182.9,706.3,25.9
+"Madrid, Comunidad de",ESO,2016,166.0,708.9,23.42
+"Madrid, Comunidad de",ESO,2017,145.2,675.8,21.49
+"Madrid, Comunidad de",ESO,2018,126.3,706.3,17.88
+"Madrid, Comunidad de",ESO,2019,94.5,680.1,13.9
+"Madrid, Comunidad de",ESO,2020,108.8,643.3,16.91
+"Madrid, Comunidad de",ESO,2021,118.4,695.1,17.03
+"Madrid, Comunidad de",ESO,2022,101.6,677.6,14.99
+"Madrid, Comunidad de",ESO,2023,95.7,699.1,13.69
+"Madrid, Comunidad de",ESO,2024,92.7,725.4,12.78
+"Madrid, Comunidad de",Otros,2014,145.7,650.4,22.4
+"Madrid, Comunidad de",Otros,2015,114.3,637.8,17.92
+"Madrid, Comunidad de",Otros,2016,107.0,642.3,16.66
+"Madrid, Comunidad de",Otros,2017,96.9,661.1,14.66
+"Madrid, Comunidad de",Otros,2018,96.6,619.8,15.59
+"Madrid, Comunidad de",Otros,2019,85.5,660.2,12.95
+"Madrid, Comunidad de",Otros,2020,97.8,650.7,15.03
+"Madrid, Comunidad de",Otros,2021,92.0,665.6,13.82
+"Madrid, Comunidad de",Otros,2022,101.7,696.3,14.61
+"Madrid, Comunidad de",Otros,2023,76.8,617.9,12.43
+"Madrid, Comunidad de",Otros,2024,63.0,629.0,10.02
+"Madrid, Comunidad de",FP,2014,50.0,209.3,23.89
+"Madrid, Comunidad de",FP,2015,44.4,226.6,19.59
+"Madrid, Comunidad de",FP,2016,39.3,206.5,19.03
+"Madrid, Comunidad de",FP,2017,36.4,222.6,16.35
+"Madrid, Comunidad de",FP,2018,31.5,240.4,13.1
+"Madrid, Comunidad de",FP,2019,29.7,230.4,12.89
+"Madrid, Comunidad de",FP,2020,38.5,243.7,15.8
+"Madrid, Comunidad de",FP,2021,36.9,243.3,15.17
+"Madrid, Comunidad de",FP,2022,31.5,254.6,12.37
+"Madrid, Comunidad de",FP,2023,36.9,286.0,12.9
+"Madrid, Comunidad de",FP,2024,31.8,291.5,10.91
+"Madrid, Comunidad de",Superior,2014,192.0,,
+"Madrid, Comunidad de",Superior,2015,174.9,,
+"Madrid, Comunidad de",Superior,2016,160.1,,
+"Madrid, Comunidad de",Superior,2017,128.3,,
+"Madrid, Comunidad de",Superior,2018,123.2,,
+"Madrid, Comunidad de",Superior,2019,133.4,,
+"Madrid, Comunidad de",Superior,2020,160.4,,
+"Madrid, Comunidad de",Superior,2021,141.8,,
+"Madrid, Comunidad de",Superior,2022,142.6,,
+"Madrid, Comunidad de",Superior,2023,118.0,,
+"Madrid, Comunidad de",Superior,2024,120.9,,
+"Murcia, Región de",Analfabetos,2014,2.6,9.7,26.8
+"Murcia, Región de",Analfabetos,2015,4.1,10.4,39.42
+"Murcia, Región de",Analfabetos,2016,3.2,9.7,32.99
+"Murcia, Región de",Analfabetos,2017,0.9,6.1,14.75
+"Murcia, Región de",Analfabetos,2018,2.1,6.6,31.82
+"Murcia, Región de",Analfabetos,2019,1.6,9.6,16.67
+"Murcia, Región de",Analfabetos,2020,1.4,7.2,19.44
+"Murcia, Región de",Analfabetos,2021,1.4,7.5,18.67
+"Murcia, Región de",Analfabetos,2022,2.4,10.3,23.3
+"Murcia, Región de",Analfabetos,2023,2.4,8.7,27.59
+"Murcia, Región de",Analfabetos,2024,2.4,13.7,17.52
+"Murcia, Región de",Básica,2014,5.4,17.8,30.34
+"Murcia, Región de",Básica,2014,5.4,75.3,7.17
+"Murcia, Región de",Básica,2015,4.3,14.8,29.05
+"Murcia, Región de",Básica,2015,4.3,63.4,6.78
+"Murcia, Región de",Básica,2016,3.4,16.6,20.48
+"Murcia, Región de",Básica,2016,3.4,68.3,4.98
+"Murcia, Región de",Básica,2017,2.9,15.7,18.47
+"Murcia, Región de",Básica,2017,2.9,58.5,4.96
+"Murcia, Región de",Básica,2018,2.7,14.4,18.75
+"Murcia, Región de",Básica,2018,2.7,51.0,5.29
+"Murcia, Región de",Básica,2019,2.4,10.8,22.22
+"Murcia, Región de",Básica,2019,2.4,47.6,5.04
+"Murcia, Región de",Básica,2020,2.1,9.3,22.58
+"Murcia, Región de",Básica,2020,2.1,48.4,4.34
+"Murcia, Región de",Básica,2021,2.5,12.5,20.0
+"Murcia, Región de",Básica,2021,2.5,43.2,5.79
+"Murcia, Región de",Básica,2022,2.6,15.0,17.33
+"Murcia, Región de",Básica,2022,2.6,40.3,6.45
+"Murcia, Región de",Básica,2023,4.1,17.6,23.3
+"Murcia, Región de",Básica,2023,4.1,42.2,9.72
+"Murcia, Región de",Básica,2024,4.9,21.7,22.58
+"Murcia, Región de",Básica,2024,4.9,45.0,10.89
+"Murcia, Región de",Básica,2014,27.2,17.8,152.81
+"Murcia, Región de",Básica,2014,27.2,75.3,36.12
+"Murcia, Región de",Básica,2015,23.8,14.8,160.81
+"Murcia, Región de",Básica,2015,23.8,63.4,37.54
+"Murcia, Región de",Básica,2016,17.8,16.6,107.23
+"Murcia, Región de",Básica,2016,17.8,68.3,26.06
+"Murcia, Región de",Básica,2017,13.5,15.7,85.99
+"Murcia, Región de",Básica,2017,13.5,58.5,23.08
+"Murcia, Región de",Básica,2018,12.1,14.4,84.03
+"Murcia, Región de",Básica,2018,12.1,51.0,23.73
+"Murcia, Región de",Básica,2019,11.0,10.8,101.85
+"Murcia, Región de",Básica,2019,11.0,47.6,23.11
+"Murcia, Región de",Básica,2020,10.4,9.3,111.83
+"Murcia, Región de",Básica,2020,10.4,48.4,21.49
+"Murcia, Región de",Básica,2021,9.6,12.5,76.8
+"Murcia, Región de",Básica,2021,9.6,43.2,22.22
+"Murcia, Región de",Básica,2022,8.5,15.0,56.67
+"Murcia, Región de",Básica,2022,8.5,40.3,21.09
+"Murcia, Región de",Básica,2023,9.7,17.6,55.11
+"Murcia, Región de",Básica,2023,9.7,42.2,22.99
+"Murcia, Región de",Básica,2024,11.7,21.7,53.92
+"Murcia, Región de",Básica,2024,11.7,45.0,26.0
+"Murcia, Región de",ESO,2014,77.0,239.5,32.15
+"Murcia, Región de",ESO,2015,70.5,235.1,29.99
+"Murcia, Región de",ESO,2016,60.7,230.1,26.38
+"Murcia, Región de",ESO,2017,57.2,241.2,23.71
+"Murcia, Región de",ESO,2018,48.7,240.0,20.29
+"Murcia, Región de",ESO,2019,46.2,248.0,18.63
+"Murcia, Región de",ESO,2020,43.2,235.4,18.35
+"Murcia, Región de",ESO,2021,45.4,241.1,18.83
+"Murcia, Región de",ESO,2022,44.1,262.8,16.78
+"Murcia, Región de",ESO,2023,36.1,249.1,14.49
+"Murcia, Región de",ESO,2024,38.5,242.2,15.9
+"Murcia, Región de",Otros,2014,23.8,91.4,26.04
+"Murcia, Región de",Otros,2015,21.8,89.0,24.49
+"Murcia, Región de",Otros,2016,15.3,83.8,18.26
+"Murcia, Región de",Otros,2017,15.1,90.6,16.67
+"Murcia, Región de",Otros,2018,15.9,89.2,17.83
+"Murcia, Región de",Otros,2019,12.6,84.7,14.88
+"Murcia, Región de",Otros,2020,16.4,87.3,18.79
+"Murcia, Región de",Otros,2021,14.1,96.5,14.61
+"Murcia, Región de",Otros,2022,13.0,92.2,14.1
+"Murcia, Región de",Otros,2023,11.3,95.4,11.84
+"Murcia, Región de",Otros,2024,11.6,92.8,12.5
+"Murcia, Región de",FP,2014,22.0,77.7,28.31
+"Murcia, Región de",FP,2015,20.2,77.6,26.03
+"Murcia, Región de",FP,2016,14.8,76.3,19.4
+"Murcia, Región de",FP,2017,16.7,73.8,22.63
+"Murcia, Región de",FP,2018,14.8,73.7,20.08
+"Murcia, Región de",FP,2019,11.3,79.5,14.21
+"Murcia, Región de",FP,2020,14.7,81.7,17.99
+"Murcia, Región de",FP,2021,12.0,79.6,15.08
+"Murcia, Región de",FP,2022,12.2,85.0,14.35
+"Murcia, Región de",FP,2023,13.5,85.6,15.77
+"Murcia, Región de",FP,2024,10.0,87.0,11.49
+"Murcia, Región de",Superior,2014,34.0,210.6,16.14
+"Murcia, Región de",Superior,2015,28.3,212.4,13.32
+"Murcia, Región de",Superior,2016,23.4,216.0,10.83
+"Murcia, Región de",Superior,2017,21.6,223.3,9.67
+"Murcia, Región de",Superior,2018,22.9,236.6,9.68
+"Murcia, Región de",Superior,2019,20.6,239.1,8.62
+"Murcia, Región de",Superior,2020,29.0,254.7,11.39
+"Murcia, Región de",Superior,2021,25.2,268.6,9.38
+"Murcia, Región de",Superior,2022,19.6,247.5,7.92
+"Murcia, Región de",Superior,2023,20.8,268.0,7.76
+"Murcia, Región de",Superior,2024,20.1,276.9,7.26
+"Navarra, Comunidad Foral de",Analfabetos,2014,0.4,0.7,57.14
+"Navarra, Comunidad Foral de",Analfabetos,2015,,0.8,
+"Navarra, Comunidad Foral de",Analfabetos,2016,1.3,2.2,59.09
+"Navarra, Comunidad Foral de",Analfabetos,2017,0.9,1.6,56.25
+"Navarra, Comunidad Foral de",Analfabetos,2018,1.2,1.9,63.16
+"Navarra, Comunidad Foral de",Analfabetos,2019,0.6,1.2,50.0
+"Navarra, Comunidad Foral de",Analfabetos,2020,0.9,1.4,64.29
+"Navarra, Comunidad Foral de",Analfabetos,2021,1.3,2.1,61.9
+"Navarra, Comunidad Foral de",Analfabetos,2022,1.5,2.2,68.18
+"Navarra, Comunidad Foral de",Analfabetos,2023,0.9,1.2,75.0
+"Navarra, Comunidad Foral de",Analfabetos,2024,0.2,0.3,66.67
+"Navarra, Comunidad Foral de",Básica,2014,1.3,2.2,59.09
+"Navarra, Comunidad Foral de",Básica,2014,1.3,15.3,8.5
+"Navarra, Comunidad Foral de",Básica,2015,1.3,3.1,41.94
+"Navarra, Comunidad Foral de",Básica,2015,1.3,11.2,11.61
+"Navarra, Comunidad Foral de",Básica,2016,1.1,3.2,34.38
+"Navarra, Comunidad Foral de",Básica,2016,1.1,9.9,11.11
+"Navarra, Comunidad Foral de",Básica,2017,0.8,2.4,33.33
+"Navarra, Comunidad Foral de",Básica,2017,0.8,9.5,8.42
+"Navarra, Comunidad Foral de",Básica,2018,0.4,0.8,50.0
+"Navarra, Comunidad Foral de",Básica,2018,0.4,14.2,2.82
+"Navarra, Comunidad Foral de",Básica,2019,0.7,1.1,63.64
+"Navarra, Comunidad Foral de",Básica,2019,0.7,13.6,5.15
+"Navarra, Comunidad Foral de",Básica,2020,0.4,1.3,30.77
+"Navarra, Comunidad Foral de",Básica,2020,0.4,9.8,4.08
+"Navarra, Comunidad Foral de",Básica,2021,1.2,2.9,41.38
+"Navarra, Comunidad Foral de",Básica,2021,1.2,11.8,10.17
+"Navarra, Comunidad Foral de",Básica,2022,0.4,2.8,14.29
+"Navarra, Comunidad Foral de",Básica,2022,0.4,10.4,3.85
+"Navarra, Comunidad Foral de",Básica,2023,0.6,3.0,20.0
+"Navarra, Comunidad Foral de",Básica,2023,0.6,12.5,4.8
+"Navarra, Comunidad Foral de",Básica,2024,0.3,2.0,15.0
+"Navarra, Comunidad Foral de",Básica,2024,0.3,10.1,2.97
+"Navarra, Comunidad Foral de",Básica,2014,4.3,2.2,195.45
+"Navarra, Comunidad Foral de",Básica,2014,4.3,15.3,28.1
+"Navarra, Comunidad Foral de",Básica,2015,3.1,3.1,100.0
+"Navarra, Comunidad Foral de",Básica,2015,3.1,11.2,27.68
+"Navarra, Comunidad Foral de",Básica,2016,2.6,3.2,81.25
+"Navarra, Comunidad Foral de",Básica,2016,2.6,9.9,26.26
+"Navarra, Comunidad Foral de",Básica,2017,2.0,2.4,83.33
+"Navarra, Comunidad Foral de",Básica,2017,2.0,9.5,21.05
+"Navarra, Comunidad Foral de",Básica,2018,3.4,0.8,425.0
+"Navarra, Comunidad Foral de",Básica,2018,3.4,14.2,23.94
+"Navarra, Comunidad Foral de",Básica,2019,2.5,1.1,227.27
+"Navarra, Comunidad Foral de",Básica,2019,2.5,13.6,18.38
+"Navarra, Comunidad Foral de",Básica,2020,1.8,1.3,138.46
+"Navarra, Comunidad Foral de",Básica,2020,1.8,9.8,18.37
+"Navarra, Comunidad Foral de",Básica,2021,4.5,2.9,155.17
+"Navarra, Comunidad Foral de",Básica,2021,4.5,11.8,38.14
+"Navarra, Comunidad Foral de",Básica,2022,3.6,2.8,128.57
+"Navarra, Comunidad Foral de",Básica,2022,3.6,10.4,34.62
+"Navarra, Comunidad Foral de",Básica,2023,3.1,3.0,103.33
+"Navarra, Comunidad Foral de",Básica,2023,3.1,12.5,24.8
+"Navarra, Comunidad Foral de",Básica,2024,3.0,2.0,150.0
+"Navarra, Comunidad Foral de",Básica,2024,3.0,10.1,29.7
+"Navarra, Comunidad Foral de",ESO,2014,16.9,78.2,21.61
+"Navarra, Comunidad Foral de",ESO,2015,13.5,77.3,17.46
+"Navarra, Comunidad Foral de",ESO,2016,11.9,71.2,16.71
+"Navarra, Comunidad Foral de",ESO,2017,9.4,72.8,12.91
+"Navarra, Comunidad Foral de",ESO,2018,9.9,67.7,14.62
+"Navarra, Comunidad Foral de",ESO,2019,7.0,65.4,10.7
+"Navarra, Comunidad Foral de",ESO,2020,9.4,63.9,14.71
+"Navarra, Comunidad Foral de",ESO,2021,8.1,59.8,13.55
+"Navarra, Comunidad Foral de",ESO,2022,8.8,61.8,14.24
+"Navarra, Comunidad Foral de",ESO,2023,7.0,63.8,10.97
+"Navarra, Comunidad Foral de",ESO,2024,6.7,66.1,10.14
+"Navarra, Comunidad Foral de",Otros,2014,7.7,39.9,19.3
+"Navarra, Comunidad Foral de",Otros,2015,6.8,38.8,17.53
+"Navarra, Comunidad Foral de",Otros,2016,6.2,37.6,16.49
+"Navarra, Comunidad Foral de",Otros,2017,5.0,34.7,14.41
+"Navarra, Comunidad Foral de",Otros,2018,4.5,38.5,11.69
+"Navarra, Comunidad Foral de",Otros,2019,3.9,38.7,10.08
+"Navarra, Comunidad Foral de",Otros,2020,4.0,34.9,11.46
+"Navarra, Comunidad Foral de",Otros,2021,5.3,39.0,13.59
+"Navarra, Comunidad Foral de",Otros,2022,4.9,39.2,12.5
+"Navarra, Comunidad Foral de",Otros,2023,5.0,42.6,11.74
+"Navarra, Comunidad Foral de",Otros,2024,4.2,38.0,11.05
+"Navarra, Comunidad Foral de",FP,2014,5.7,33.0,17.27
+"Navarra, Comunidad Foral de",FP,2015,5.9,34.3,17.2
+"Navarra, Comunidad Foral de",FP,2016,5.3,35.1,15.1
+"Navarra, Comunidad Foral de",FP,2017,3.5,40.0,8.75
+"Navarra, Comunidad Foral de",FP,2018,3.5,39.4,8.88
+"Navarra, Comunidad Foral de",FP,2019,3.0,39.7,7.56
+"Navarra, Comunidad Foral de",FP,2020,3.0,36.9,8.13
+"Navarra, Comunidad Foral de",FP,2021,3.6,37.8,9.52
+"Navarra, Comunidad Foral de",FP,2022,4.5,42.8,10.51
+"Navarra, Comunidad Foral de",FP,2023,5.1,40.5,12.59
+"Navarra, Comunidad Foral de",FP,2024,2.9,43.4,6.68
+"Navarra, Comunidad Foral de",Superior,2014,12.6,142.3,8.85
+"Navarra, Comunidad Foral de",Superior,2015,11.8,141.1,8.36
+"Navarra, Comunidad Foral de",Superior,2016,9.7,146.5,6.62
+"Navarra, Comunidad Foral de",Superior,2017,10.1,149.5,6.76
+"Navarra, Comunidad Foral de",Superior,2018,8.6,151.2,5.69
+"Navarra, Comunidad Foral de",Superior,2019,8.3,155.1,5.35
+"Navarra, Comunidad Foral de",Superior,2020,11.5,161.3,7.13
+"Navarra, Comunidad Foral de",Superior,2021,10.4,166.7,6.24
+"Navarra, Comunidad Foral de",Superior,2022,8.2,168.2,4.88
+"Navarra, Comunidad Foral de",Superior,2023,11.2,168.2,6.66
+"Navarra, Comunidad Foral de",Superior,2024,8.6,178.4,4.82
+País Vasco,Analfabetos,2014,0.4,1.1,36.36
+País Vasco,Analfabetos,2015,0.5,1.6,31.25
+País Vasco,Analfabetos,2016,0.5,1.1,45.45
+País Vasco,Analfabetos,2017,0.6,0.8,75.0
+País Vasco,Analfabetos,2018,0.4,0.8,50.0
+País Vasco,Analfabetos,2019,1.0,1.4,71.43
+País Vasco,Analfabetos,2020,0.2,0.3,66.67
+País Vasco,Analfabetos,2021,0.2,0.8,25.0
+País Vasco,Analfabetos,2022,0.4,0.7,57.14
+País Vasco,Analfabetos,2023,0.1,1.5,6.67
+País Vasco,Analfabetos,2024,0.2,1.2,16.67
+País Vasco,Básica,2014,1.0,3.4,29.41
+País Vasco,Básica,2014,1.0,42.2,2.37
+País Vasco,Básica,2015,1.6,3.0,53.33
+País Vasco,Básica,2015,1.6,31.7,5.05
+País Vasco,Básica,2016,1.0,3.3,30.3
+País Vasco,Básica,2016,1.0,32.7,3.06
+País Vasco,Básica,2017,1.5,3.0,50.0
+País Vasco,Básica,2017,1.5,32.8,4.57
+País Vasco,Básica,2018,1.1,3.4,32.35
+País Vasco,Básica,2018,1.1,27.5,4.0
+País Vasco,Básica,2019,1.3,5.8,22.41
+País Vasco,Básica,2019,1.3,27.2,4.78
+País Vasco,Básica,2020,0.5,3.9,12.82
+País Vasco,Básica,2020,0.5,23.1,2.16
+País Vasco,Básica,2021,0.4,4.3,9.3
+País Vasco,Básica,2021,0.4,22.0,1.82
+País Vasco,Básica,2022,2.5,6.3,39.68
+País Vasco,Básica,2022,2.5,20.4,12.25
+País Vasco,Básica,2023,1.1,7.5,14.67
+País Vasco,Básica,2023,1.1,19.7,5.58
+País Vasco,Básica,2024,1.3,6.9,18.84
+País Vasco,Básica,2024,1.3,22.2,5.86
+País Vasco,Básica,2014,12.9,3.4,379.41
+País Vasco,Básica,2014,12.9,42.2,30.57
+País Vasco,Básica,2015,8.3,3.0,276.67
+País Vasco,Básica,2015,8.3,31.7,26.18
+País Vasco,Básica,2016,6.3,3.3,190.91
+País Vasco,Básica,2016,6.3,32.7,19.27
+País Vasco,Básica,2017,7.7,3.0,256.67
+País Vasco,Básica,2017,7.7,32.8,23.48
+País Vasco,Básica,2018,5.6,3.4,164.71
+País Vasco,Básica,2018,5.6,27.5,20.36
+País Vasco,Básica,2019,4.2,5.8,72.41
+País Vasco,Básica,2019,4.2,27.2,15.44
+País Vasco,Básica,2020,5.6,3.9,143.59
+País Vasco,Básica,2020,5.6,23.1,24.24
+País Vasco,Básica,2021,6.4,4.3,148.84
+País Vasco,Básica,2021,6.4,22.0,29.09
+País Vasco,Básica,2022,6.4,6.3,101.59
+País Vasco,Básica,2022,6.4,20.4,31.37
+País Vasco,Básica,2023,3.8,7.5,50.67
+País Vasco,Básica,2023,3.8,19.7,19.29
+País Vasco,Básica,2024,4.3,6.9,62.32
+País Vasco,Básica,2024,4.3,22.2,19.37
+País Vasco,ESO,2014,56.2,231.8,24.25
+País Vasco,ESO,2015,53.1,231.1,22.98
+País Vasco,ESO,2016,44.5,222.9,19.96
+País Vasco,ESO,2017,36.0,208.1,17.3
+País Vasco,ESO,2018,33.9,210.4,16.11
+País Vasco,ESO,2019,33.3,205.3,16.22
+País Vasco,ESO,2020,28.0,178.7,15.67
+País Vasco,ESO,2021,34.3,180.2,19.03
+País Vasco,ESO,2022,24.8,180.6,13.73
+País Vasco,ESO,2023,20.6,175.0,11.77
+País Vasco,ESO,2024,20.3,156.4,12.98
+País Vasco,Otros,2014,20.5,109.3,18.76
+País Vasco,Otros,2015,18.4,113.7,16.18
+País Vasco,Otros,2016,17.3,113.4,15.26
+País Vasco,Otros,2017,17.1,111.2,15.38
+País Vasco,Otros,2018,15.6,119.8,13.02
+País Vasco,Otros,2019,11.5,113.1,10.17
+País Vasco,Otros,2020,11.8,106.1,11.12
+País Vasco,Otros,2021,12.8,112.0,11.43
+País Vasco,Otros,2022,14.8,121.7,12.16
+País Vasco,Otros,2023,14.5,118.9,12.2
+País Vasco,Otros,2024,16.1,120.3,13.38
+País Vasco,FP,2014,22.2,116.2,19.1
+País Vasco,FP,2015,19.9,116.0,17.16
+País Vasco,FP,2016,14.9,114.8,12.98
+País Vasco,FP,2017,13.0,115.1,11.29
+País Vasco,FP,2018,12.3,114.5,10.74
+País Vasco,FP,2019,13.1,113.0,11.59
+País Vasco,FP,2020,11.6,114.7,10.11
+País Vasco,FP,2021,15.0,118.4,12.67
+País Vasco,FP,2022,13.7,112.4,12.19
+País Vasco,FP,2023,12.1,124.1,9.75
+País Vasco,FP,2024,12.7,128.3,9.9
+País Vasco,Superior,2014,55.7,530.2,10.51
+País Vasco,Superior,2015,50.1,531.3,9.43
+País Vasco,Superior,2016,45.3,543.4,8.34
+País Vasco,Superior,2017,39.3,549.0,7.16
+País Vasco,Superior,2018,33.4,549.4,6.08
+País Vasco,Superior,2019,29.9,564.6,5.3
+País Vasco,Superior,2020,39.0,587.6,6.64
+País Vasco,Superior,2021,39.5,617.8,6.39
+País Vasco,Superior,2022,31.8,619.4,5.13
+País Vasco,Superior,2023,31.3,632.3,4.95
+País Vasco,Superior,2024,32.3,639.5,5.05
+"Rioja, La",Analfabetos,2014,0.3,0.6,50.0
+"Rioja, La",Analfabetos,2015,0.2,0.5,40.0
+"Rioja, La",Analfabetos,2016,0.1,0.4,25.0
+"Rioja, La",Analfabetos,2017,0.5,0.9,55.56
+"Rioja, La",Analfabetos,2018,0.2,0.6,33.33
+"Rioja, La",Analfabetos,2019,0.1,0.3,33.33
+"Rioja, La",Analfabetos,2020,0.2,0.4,50.0
+"Rioja, La",Analfabetos,2021,0.1,0.4,25.0
+"Rioja, La",Analfabetos,2022,0.3,1.0,30.0
+"Rioja, La",Analfabetos,2023,0.5,1.3,38.46
+"Rioja, La",Analfabetos,2024,0.7,1.5,46.67
+"Rioja, La",Básica,2014,0.3,1.4,21.43
+"Rioja, La",Básica,2014,0.3,10.1,2.97
+"Rioja, La",Básica,2015,0.2,0.9,22.22
+"Rioja, La",Básica,2015,0.2,8.8,2.27
+"Rioja, La",Básica,2016,0.3,0.6,50.0
+"Rioja, La",Básica,2016,0.3,7.6,3.95
+"Rioja, La",Básica,2017,0.3,1.1,27.27
+"Rioja, La",Básica,2017,0.3,6.5,4.62
+"Rioja, La",Básica,2018,0.1,0.7,14.29
+"Rioja, La",Básica,2018,0.1,4.6,2.17
+"Rioja, La",Básica,2019,0.1,0.4,25.0
+"Rioja, La",Básica,2019,0.1,4.8,2.08
+"Rioja, La",Básica,2020,0.1,0.9,11.11
+"Rioja, La",Básica,2020,0.1,5.2,1.92
+"Rioja, La",Básica,2021,0.3,1.1,27.27
+"Rioja, La",Básica,2021,0.3,5.1,5.88
+"Rioja, La",Básica,2022,0.3,1.1,27.27
+"Rioja, La",Básica,2022,0.3,4.5,6.67
+"Rioja, La",Básica,2023,0.3,1.9,15.79
+"Rioja, La",Básica,2023,0.3,5.3,5.66
+"Rioja, La",Básica,2024,0.3,2.0,15.0
+"Rioja, La",Básica,2024,0.3,5.0,6.0
+"Rioja, La",Básica,2014,2.9,1.4,207.14
+"Rioja, La",Básica,2014,2.9,10.1,28.71
+"Rioja, La",Básica,2015,2.3,0.9,255.56
+"Rioja, La",Básica,2015,2.3,8.8,26.14
+"Rioja, La",Básica,2016,2.2,0.6,366.67
+"Rioja, La",Básica,2016,2.2,7.6,28.95
+"Rioja, La",Básica,2017,1.8,1.1,163.64
+"Rioja, La",Básica,2017,1.8,6.5,27.69
+"Rioja, La",Básica,2018,0.9,0.7,128.57
+"Rioja, La",Básica,2018,0.9,4.6,19.57
+"Rioja, La",Básica,2019,1.3,0.4,325.0
+"Rioja, La",Básica,2019,1.3,4.8,27.08
+"Rioja, La",Básica,2020,1.2,0.9,133.33
+"Rioja, La",Básica,2020,1.2,5.2,23.08
+"Rioja, La",Básica,2021,1.2,1.1,109.09
+"Rioja, La",Básica,2021,1.2,5.1,23.53
+"Rioja, La",Básica,2022,0.6,1.1,54.55
+"Rioja, La",Básica,2022,0.6,4.5,13.33
+"Rioja, La",Básica,2023,1.2,1.9,63.16
+"Rioja, La",Básica,2023,1.2,5.3,22.64
+"Rioja, La",Básica,2024,0.8,2.0,40.0
+"Rioja, La",Básica,2024,0.8,5.0,16.0
+"Rioja, La",ESO,2014,10.6,43.7,24.26
+"Rioja, La",ESO,2015,8.7,43.3,20.09
+"Rioja, La",ESO,2016,8.3,47.3,17.55
+"Rioja, La",ESO,2017,6.1,46.1,13.23
+"Rioja, La",ESO,2018,6.5,49.7,13.08
+"Rioja, La",ESO,2019,5.6,50.8,11.02
+"Rioja, La",ESO,2020,6.2,48.0,12.92
+"Rioja, La",ESO,2021,7.0,47.0,14.89
+"Rioja, La",ESO,2022,6.0,42.6,14.08
+"Rioja, La",ESO,2023,5.4,46.0,11.74
+"Rioja, La",ESO,2024,7.1,46.5,15.27
+"Rioja, La",Otros,2014,4.0,21.2,18.87
+"Rioja, La",Otros,2015,4.2,20.6,20.39
+"Rioja, La",Otros,2016,2.5,18.6,13.44
+"Rioja, La",Otros,2017,2.7,19.4,13.92
+"Rioja, La",Otros,2018,2.5,19.7,12.69
+"Rioja, La",Otros,2019,2.5,20.9,11.96
+"Rioja, La",Otros,2020,2.7,19.5,13.85
+"Rioja, La",Otros,2021,3.5,21.1,16.59
+"Rioja, La",Otros,2022,2.6,21.2,12.26
+"Rioja, La",Otros,2023,1.6,17.8,8.99
+"Rioja, La",Otros,2024,1.5,16.8,8.93
+"Rioja, La",FP,2014,3.4,17.9,18.99
+"Rioja, La",FP,2015,2.0,16.8,11.9
+"Rioja, La",FP,2016,1.7,16.9,10.06
+"Rioja, La",FP,2017,1.8,17.9,10.06
+"Rioja, La",FP,2018,1.5,17.8,8.43
+"Rioja, La",FP,2019,1.6,17.0,9.41
+"Rioja, La",FP,2020,1.6,18.1,8.84
+"Rioja, La",FP,2021,1.7,18.8,9.04
+"Rioja, La",FP,2022,2.1,20.2,10.4
+"Rioja, La",FP,2023,1.9,20.7,9.18
+"Rioja, La",FP,2024,1.1,19.5,5.64
+"Rioja, La",Superior,2014,6.8,61.7,11.02
+"Rioja, La",Superior,2015,6.1,63.2,9.65
+"Rioja, La",Superior,2016,5.7,62.1,9.18
+"Rioja, La",Superior,2017,5.1,61.0,8.36
+"Rioja, La",Superior,2018,4.3,60.9,7.06
+"Rioja, La",Superior,2019,4.3,61.9,6.95
+"Rioja, La",Superior,2020,4.6,62.4,7.37
+"Rioja, La",Superior,2021,4.9,67.7,7.24
+"Rioja, La",Superior,2022,3.5,70.6,4.96
+"Rioja, La",Superior,2023,4.2,68.7,6.11
+"Rioja, La",Superior,2024,4.2,70.7,5.94
+Ceuta,Analfabetos,2014,0.2,0.2,100.0
+Ceuta,Analfabetos,2015,0.2,0.2,100.0
+Ceuta,Analfabetos,2016,0.2,0.4,50.0
+Ceuta,Analfabetos,2017,0.1,0.6,16.67
+Ceuta,Analfabetos,2018,0.2,0.6,33.33
+Ceuta,Analfabetos,2019,0.5,0.5,100.0
+Ceuta,Analfabetos,2020,0.3,0.3,100.0
+Ceuta,Analfabetos,2021,0.1,0.1,100.0
+Ceuta,Analfabetos,2022,0.2,0.4,50.0
+Ceuta,Analfabetos,2023,0.5,0.8,62.5
+Ceuta,Analfabetos,2024,0.4,0.6,66.67
+Ceuta,Básica,2014,0.8,1.6,50.0
+Ceuta,Básica,2014,0.8,4.1,19.51
+Ceuta,Básica,2015,0.8,1.4,57.14
+Ceuta,Básica,2015,0.8,4.5,17.78
+Ceuta,Básica,2016,0.6,1.3,46.15
+Ceuta,Básica,2016,0.6,5.1,11.76
+Ceuta,Básica,2017,0.3,0.7,42.86
+Ceuta,Básica,2017,0.3,4.0,7.5
+Ceuta,Básica,2018,0.3,0.5,60.0
+Ceuta,Básica,2018,0.3,4.4,6.82
+Ceuta,Básica,2019,0.3,0.6,50.0
+Ceuta,Básica,2019,0.3,4.7,6.38
+Ceuta,Básica,2020,0.2,0.4,50.0
+Ceuta,Básica,2020,0.2,3.7,5.41
+Ceuta,Básica,2021,0.1,0.2,50.0
+Ceuta,Básica,2021,0.1,4.4,2.27
+Ceuta,Básica,2022,0.1,0.3,33.33
+Ceuta,Básica,2022,0.1,6.3,1.59
+Ceuta,Básica,2023,0.2,0.2,100.0
+Ceuta,Básica,2023,0.2,5.4,3.7
+Ceuta,Básica,2024,0.2,0.3,66.67
+Ceuta,Básica,2024,0.2,4.1,4.88
+Ceuta,Básica,2014,1.6,1.6,100.0
+Ceuta,Básica,2014,1.6,4.1,39.02
+Ceuta,Básica,2015,1.8,1.4,128.57
+Ceuta,Básica,2015,1.8,4.5,40.0
+Ceuta,Básica,2016,2.2,1.3,169.23
+Ceuta,Básica,2016,2.2,5.1,43.14
+Ceuta,Básica,2017,1.6,0.7,228.57
+Ceuta,Básica,2017,1.6,4.0,40.0
+Ceuta,Básica,2018,2.5,0.5,500.0
+Ceuta,Básica,2018,2.5,4.4,56.82
+Ceuta,Básica,2019,1.8,0.6,300.0
+Ceuta,Básica,2019,1.8,4.7,38.3
+Ceuta,Básica,2020,1.4,0.4,350.0
+Ceuta,Básica,2020,1.4,3.7,37.84
+Ceuta,Básica,2021,2.2,0.2,1100.0
+Ceuta,Básica,2021,2.2,4.4,50.0
+Ceuta,Básica,2022,3.3,0.3,1100.0
+Ceuta,Básica,2022,3.3,6.3,52.38
+Ceuta,Básica,2023,2.5,0.2,1250.0
+Ceuta,Básica,2023,2.5,5.4,46.3
+Ceuta,Básica,2024,2.1,0.3,700.0
+Ceuta,Básica,2024,2.1,4.1,51.22
+Ceuta,ESO,2014,6.2,13.1,47.33
+Ceuta,ESO,2015,4.1,10.6,38.68
+Ceuta,ESO,2016,3.6,10.7,33.64
+Ceuta,ESO,2017,3.6,12.0,30.0
+Ceuta,ESO,2018,4.8,14.0,34.29
+Ceuta,ESO,2019,4.5,12.8,35.16
+Ceuta,ESO,2020,4.3,12.7,33.86
+Ceuta,ESO,2021,3.9,11.0,35.45
+Ceuta,ESO,2022,4.1,13.4,30.6
+Ceuta,ESO,2023,6.0,15.4,38.96
+Ceuta,ESO,2024,4.6,11.5,40.0
+Ceuta,Otros,2014,1.4,6.7,20.9
+Ceuta,Otros,2015,1.0,5.6,17.86
+Ceuta,Otros,2016,0.5,5.3,9.43
+Ceuta,Otros,2017,0.7,5.2,13.46
+Ceuta,Otros,2018,1.0,4.5,22.22
+Ceuta,Otros,2019,1.0,7.0,14.29
+Ceuta,Otros,2020,1.1,6.5,16.92
+Ceuta,Otros,2021,1.7,7.2,23.61
+Ceuta,Otros,2022,1.5,6.9,21.74
+Ceuta,Otros,2023,0.9,4.8,18.75
+Ceuta,Otros,2024,1.0,5.1,19.61
+Ceuta,FP,2014,0.5,3.0,16.67
+Ceuta,FP,2015,0.8,3.1,25.81
+Ceuta,FP,2016,0.7,2.6,26.92
+Ceuta,FP,2017,0.6,3.0,20.0
+Ceuta,FP,2018,0.7,3.6,19.44
+Ceuta,FP,2019,0.6,3.1,19.35
+Ceuta,FP,2020,0.7,2.8,25.0
+Ceuta,FP,2021,1.1,2.8,39.29
+Ceuta,FP,2022,1.0,3.2,31.25
+Ceuta,FP,2023,0.9,4.1,21.95
+Ceuta,FP,2024,0.7,3.1,22.58
+Ceuta,Superior,2014,1.5,9.3,16.13
+Ceuta,Superior,2015,1.6,11.7,13.68
+Ceuta,Superior,2016,1.5,11.8,12.71
+Ceuta,Superior,2017,1.2,10.9,11.01
+Ceuta,Superior,2018,1.6,11.0,14.55
+Ceuta,Superior,2019,1.2,9.6,12.5
+Ceuta,Superior,2020,1.1,10.6,10.38
+Ceuta,Superior,2021,2.0,10.1,19.8
+Ceuta,Superior,2022,1.6,9.0,17.78
+Ceuta,Superior,2023,1.0,9.1,10.99
+Ceuta,Superior,2024,2.0,15.3,13.07
+Melilla,Analfabetos,2014,0.2,0.2,100.0
+Melilla,Analfabetos,2015,0.1,0.5,20.0
+Melilla,Analfabetos,2016,0.3,0.4,75.0
+Melilla,Analfabetos,2017,0.3,0.6,50.0
+Melilla,Analfabetos,2018,0.3,0.4,75.0
+Melilla,Analfabetos,2019,0.3,0.4,75.0
+Melilla,Analfabetos,2020,0.2,0.5,40.0
+Melilla,Analfabetos,2021,0.3,0.5,60.0
+Melilla,Analfabetos,2022,0.2,0.5,40.0
+Melilla,Analfabetos,2023,0.2,0.5,40.0
+Melilla,Analfabetos,2024,0.5,1.0,50.0
+Melilla,Básica,2014,1.7,2.6,65.38
+Melilla,Básica,2014,1.7,2.9,58.62
+Melilla,Básica,2015,1.7,2.3,73.91
+Melilla,Básica,2015,1.7,3.9,43.59
+Melilla,Básica,2016,1.1,1.8,61.11
+Melilla,Básica,2016,1.1,4.4,25.0
+Melilla,Básica,2017,1.0,2.0,50.0
+Melilla,Básica,2017,1.0,4.0,25.0
+Melilla,Básica,2018,0.9,1.6,56.25
+Melilla,Básica,2018,0.9,5.2,17.31
+Melilla,Básica,2019,0.8,1.3,61.54
+Melilla,Básica,2019,0.8,4.6,17.39
+Melilla,Básica,2020,0.5,0.8,62.5
+Melilla,Básica,2020,0.5,4.5,11.11
+Melilla,Básica,2021,0.5,0.8,62.5
+Melilla,Básica,2021,0.5,4.4,11.36
+Melilla,Básica,2022,0.7,1.3,53.85
+Melilla,Básica,2022,0.7,4.3,16.28
+Melilla,Básica,2023,0.5,0.9,55.56
+Melilla,Básica,2023,0.5,3.7,13.51
+Melilla,Básica,2024,1.0,1.2,83.33
+Melilla,Básica,2024,1.0,4.0,25.0
+Melilla,Básica,2014,1.2,2.6,46.15
+Melilla,Básica,2014,1.2,2.9,41.38
+Melilla,Básica,2015,2.2,2.3,95.65
+Melilla,Básica,2015,2.2,3.9,56.41
+Melilla,Básica,2016,2.2,1.8,122.22
+Melilla,Básica,2016,2.2,4.4,50.0
+Melilla,Básica,2017,1.9,2.0,95.0
+Melilla,Básica,2017,1.9,4.0,47.5
+Melilla,Básica,2018,2.3,1.6,143.75
+Melilla,Básica,2018,2.3,5.2,44.23
+Melilla,Básica,2019,2.1,1.3,161.54
+Melilla,Básica,2019,2.1,4.6,45.65
+Melilla,Básica,2020,2.0,0.8,250.0
+Melilla,Básica,2020,2.0,4.5,44.44
+Melilla,Básica,2021,2.2,0.8,275.0
+Melilla,Básica,2021,2.2,4.4,50.0
+Melilla,Básica,2022,2.1,1.3,161.54
+Melilla,Básica,2022,2.1,4.3,48.84
+Melilla,Básica,2023,2.2,0.9,244.44
+Melilla,Básica,2023,2.2,3.7,59.46
+Melilla,Básica,2024,1.9,1.2,158.33
+Melilla,Básica,2024,1.9,4.0,47.5
+Melilla,ESO,2014,3.2,7.3,43.84
+Melilla,ESO,2015,3.3,9.1,36.26
+Melilla,ESO,2016,3.1,9.4,32.98
+Melilla,ESO,2017,2.7,8.6,31.4
+Melilla,ESO,2018,3.6,10.3,34.95
+Melilla,ESO,2019,3.4,9.4,36.17
+Melilla,ESO,2020,3.4,8.3,40.96
+Melilla,ESO,2021,3.2,10.0,32.0
+Melilla,ESO,2022,2.5,8.4,29.76
+Melilla,ESO,2023,3.4,9.1,37.36
+Melilla,ESO,2024,3.9,10.4,37.5
+Melilla,Otros,2014,1.3,5.3,24.53
+Melilla,Otros,2015,2.0,5.2,38.46
+Melilla,Otros,2016,1.7,6.1,27.87
+Melilla,Otros,2017,1.9,7.2,26.39
+Melilla,Otros,2018,0.9,5.8,15.52
+Melilla,Otros,2019,1.1,5.2,21.15
+Melilla,Otros,2020,1.2,6.2,19.35
+Melilla,Otros,2021,1.3,5.7,22.81
+Melilla,Otros,2022,1.5,4.9,30.61
+Melilla,Otros,2023,1.3,4.3,30.23
+Melilla,Otros,2024,1.4,4.4,31.82
+Melilla,FP,2014,0.9,4.1,21.95
+Melilla,FP,2015,0.9,3.1,29.03
+Melilla,FP,2016,0.6,3.1,19.35
+Melilla,FP,2017,0.6,2.6,23.08
+Melilla,FP,2018,0.7,3.3,21.21
+Melilla,FP,2019,1.0,4.2,23.81
+Melilla,FP,2020,0.9,3.8,23.68
+Melilla,FP,2021,0.9,2.9,31.03
+Melilla,FP,2022,1.1,3.9,28.21
+Melilla,FP,2023,0.6,4.3,13.95
+Melilla,FP,2024,1.0,4.4,22.73
+Melilla,Superior,2014,1.1,11.5,9.57
+Melilla,Superior,2015,1.8,11.5,15.65
+Melilla,Superior,2016,2.2,11.1,19.82
+Melilla,Superior,2017,1.8,12.1,14.88
+Melilla,Superior,2018,1.4,12.8,10.94
+Melilla,Superior,2019,1.5,12.8,11.72
+Melilla,Superior,2020,1.1,15.1,7.28
+Melilla,Superior,2021,1.7,15.2,11.18
+Melilla,Superior,2022,1.8,14.4,12.5
+Melilla,Superior,2023,1.5,13.9,10.79
+Melilla,Superior,2024,1.3,13.7,9.49
